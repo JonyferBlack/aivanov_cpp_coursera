@@ -1,0 +1,39 @@
+/*
+comfort	-1
+coffee	3
+car	-2
+*
+
+ *
+
+ *
+ */
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+const char symbol = "f";
+string sequence;
+
+int main() {
+	int occurances = 0;
+	cin >> sequence;
+
+	for (auto index = 0; index < sequence.length(); index++){
+		if (sequence[index] == symbol) occurances++;
+
+		if (occurances == 2){
+			cout<<index;
+		}
+	}
+
+	if (occurances == 1){
+		cout<<-1;
+	}
+	if (occurances == 0){
+		cout<<-2;
+	}
+
+	return 0;
+}

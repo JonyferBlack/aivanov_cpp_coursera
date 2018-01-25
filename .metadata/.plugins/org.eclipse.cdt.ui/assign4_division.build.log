@@ -1,0 +1,6 @@
+01:04:20 **** Incremental Build of configuration Debug for project assign4_division ****
+Info: Internal Builder is used for build
+g++ -o assign4_division.exe "src\\assign4_division.o" 
+
+01:04:20 Build Finished (took 189ms)
+

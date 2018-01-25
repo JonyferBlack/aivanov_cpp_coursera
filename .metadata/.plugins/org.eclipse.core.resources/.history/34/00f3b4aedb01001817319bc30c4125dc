@@ -1,0 +1,14 @@
+//============================================================================
+// Name        : assign9_binary_numbers.cpp
+// Author      : aivanov
+// Version     :
+// Copyright   : Your copyright notice
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+	return 0;
+}

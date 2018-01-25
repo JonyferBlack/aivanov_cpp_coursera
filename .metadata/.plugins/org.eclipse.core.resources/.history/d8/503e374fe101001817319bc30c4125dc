@@ -1,0 +1,43 @@
+//============================================================================
+// Name        : assign9_binary_numbers.cpp
+// Author      : aivanov
+//
+// 0 0
+// 2147483647 ‭1111111111111111111111111111111‬
+// 5	101
+// 32	100000
+// 1	1
+//
+//============================================================================
+
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+int N, modulo;
+std::vector<int> binary_number;
+
+int main() {
+
+	cin>>N;
+
+	while (N > 2){
+		modulo = N % 2;
+		binary_number.push_back(modulo);
+		N /= 2;
+	}
+
+	int last_one = 0;
+
+	for (int i=0; i < binary_number.size(); i++)
+	{
+		if (binary_number[i] == 1) last_one = i;
+	}
+
+	for (int i=0; i< last_one; i++){
+		cout << binary_number[i];
+	}
+
+	return 0;
+}

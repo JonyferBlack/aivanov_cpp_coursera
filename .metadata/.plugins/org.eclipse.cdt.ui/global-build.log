@@ -1,0 +1,445 @@
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign5_cost_of_goods
+Info: Nothing to build for assign4_division
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign6_even_numbers
+15:51:54 **** Incremental Build of configuration Debug for project assign6_even_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign6_even_numbers.o" "..\\src\\assign6_even_numbers.cpp" 
+g++ -o assign6_even_numbers.exe "src\\assign6_even_numbers.o" 
+C:/Users/aivanov/Google Drive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign6_even_numbers.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:52:37 **** Incremental Build of configuration Debug for project assign6_even_numbers ****
+Info: Internal Builder is used for build
+g++ -o assign6_even_numbers.exe "src\\assign6_even_numbers.o" 
+C:/Users/aivanov/Google Drive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign6_even_numbers.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:53:12 **** Incremental Build of configuration Debug for project assign6_even_numbers ****
+Info: Internal Builder is used for build
+g++ -o assign6_even_numbers.exe "src\\assign6_even_numbers.o" 
+C:/Users/aivanov/Google Drive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign6_even_numbers.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:53:53 **** Incremental Build of configuration Debug for project assign6_even_numbers ****
+Info: Internal Builder is used for build
+g++ -o assign6_even_numbers.exe "src\\assign6_even_numbers.o" 
+Info: Nothing to build for assign1_sum
+Info: Nothing to build for assign2_minimal_string
+Info: Nothing to build for assign3_quadratic_equation
+Info: Nothing to build for assign4_division
+Info: Nothing to build for assign5_cost_of_goods
+Info: Nothing to build for assign6_even_numbers
+16:45:49 **** Rebuild of configuration Debug for project assign7_second_occurrence ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign7_second_occurrence.o" "..\\src\\assign7_second_occurrence.cpp" 
+..\src\assign7_second_occurrence.cpp:16:21: error: invalid conversion from 'const char*' to 'char' [-fpermissive]
+ const char symbol = "f";
+                     ^~~
+..\src\assign7_second_occurrence.cpp: In function 'int main()':
+..\src\assign7_second_occurrence.cpp:23:29: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto index = 0; index < sequence.length(); index++){
+                       ~~~~~~^~~~~~~~~~~~~~~~~~~
+Info: Nothing to build for hello
+Info: Nothing to build for assign1_sum
+Info: Nothing to build for assign2_minimal_string
+Info: Nothing to build for assign3_quadratic_equation
+Info: Nothing to build for assign4_division
+Info: Nothing to build for assign5_cost_of_goods
+Info: Nothing to build for assign6_even_numbers
+16:49:25 **** Incremental Build of configuration Debug for project assign7_second_occurrence ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign7_second_occurrence.o" "..\\src\\assign7_second_occurrence.cpp" 
+..\src\assign7_second_occurrence.cpp: In function 'int main()':
+..\src\assign7_second_occurrence.cpp:27:29: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto index = 0; index < sequence.length(); index++){
+                       ~~~~~~^~~~~~~~~~~~~~~~~~~
+g++ -o assign7_second_occurrence.exe "src\\assign7_second_occurrence.o" 
+Info: Nothing to build for hello
+Info: Nothing to build for assign1_sum
+Info: Nothing to build for assign2_minimal_string
+Info: Nothing to build for assign3_quadratic_equation
+Info: Nothing to build for assign4_division
+Info: Nothing to build for assign5_cost_of_goods
+Info: Nothing to build for assign6_even_numbers
+16:49:33 **** Incremental Build of configuration Debug for project assign7_second_occurrence ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign7_second_occurrence.o" "..\\src\\assign7_second_occurrence.cpp" 
+..\src\assign7_second_occurrence.cpp: In function 'int main()':
+..\src\assign7_second_occurrence.cpp:27:29: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto index = 0; index < sequence.length(); index++){
+                       ~~~~~~^~~~~~~~~~~~~~~~~~~
+Assembler messages:
+Fatal error: can't create src\assign7_second_occurrence.o: Permission denied
+Info: Nothing to build for hello
+16:49:40 **** Incremental Build of configuration Debug for project assign7_second_occurrence ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign7_second_occurrence.o" "..\\src\\assign7_second_occurrence.cpp" 
+..\src\assign7_second_occurrence.cpp: In function 'int main()':
+..\src\assign7_second_occurrence.cpp:27:29: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto index = 0; index < sequence.length(); index++){
+                       ~~~~~~^~~~~~~~~~~~~~~~~~~
+g++ -o assign7_second_occurrence.exe "src\\assign7_second_occurrence.o" 
+Info: Nothing to build for assign7_second_occurrence
+Info: Nothing to build for assign7_second_occurrence
+Info: Nothing to build for assign7_second_occurrence
+16:51:03 **** Incremental Build of configuration Debug for project assign7_second_occurrence ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign7_second_occurrence.o" "..\\src\\assign7_second_occurrence.cpp" 
+..\src\assign7_second_occurrence.cpp: In function 'int main()':
+..\src\assign7_second_occurrence.cpp:27:29: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto index = 0; index < sequence.length(); index++){
+                       ~~~~~~^~~~~~~~~~~~~~~~~~~
+g++ -o assign7_second_occurrence.exe "src\\assign7_second_occurrence.o" 
+Info: Nothing to build for assign7_second_occurrence
+Info: Nothing to build for assign7_second_occurrence
+Info: Nothing to build for assign7_second_occurrence
+16:53:19 **** Incremental Build of configuration Debug for project assign7_second_occurrence ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign7_second_occurrence.o" "..\\src\\assign7_second_occurrence.cpp" 
+..\src\assign7_second_occurrence.cpp: In function 'int main()':
+..\src\assign7_second_occurrence.cpp:27:29: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto index = 0; index < sequence.length(); index++){
+                       ~~~~~~^~~~~~~~~~~~~~~~~~~
+g++ -o assign7_second_occurrence.exe "src\\assign7_second_occurrence.o" 
+16:56:13 **** Incremental Build of configuration Debug for project assign7_second_occurrence ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign7_second_occurrence.o" "..\\src\\assign7_second_occurrence.cpp" 
+..\src\assign7_second_occurrence.cpp: In function 'int main()':
+..\src\assign7_second_occurrence.cpp:27:28: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int index = 0; index < sequence.length(); index++){
+                      ~~~~~~^~~~~~~~~~~~~~~~~~~
+g++ -o assign7_second_occurrence.exe "src\\assign7_second_occurrence.o" 
+Info: Nothing to build for assign1_sum
+Info: Nothing to build for assign2_minimal_string
+Info: Nothing to build for assign3_quadratic_equation
+00:48:23 **** Incremental Build of configuration Debug for project assign5_cost_of_goods ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign5_cost_of_goods.o" "..\\src\\assign5_cost_of_goods.cpp" 
+g++ -o assign5_cost_of_goods.exe "src\\assign5_cost_of_goods.o" 
+00:48:25 **** Incremental Build of configuration Debug for project assign6_even_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign6_even_numbers.o" "..\\src\\assign6_even_numbers.cpp" 
+g++ -o assign6_even_numbers.exe "src\\assign6_even_numbers.o" 
+00:48:25 **** Rebuild of configuration Debug for project assign7_second_occurrence ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign7_second_occurrence.o" "..\\src\\assign7_second_occurrence.cpp" 
+..\src\assign7_second_occurrence.cpp: In function 'int main()':
+..\src\assign7_second_occurrence.cpp:27:28: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int index = 0; index < sequence.length(); index++){
+                      ~~~~~~^~~~~~~~~~~~~~~~~~~
+g++ -o assign7_second_occurrence.exe "src\\assign7_second_occurrence.o" 
+00:48:26 **** Rebuild of configuration Debug for project assign8_greatest_common_divisor ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign8_greatest_common_divisor.o" "..\\src\\assign8_greatest_common_divisor.cpp" 
+g++ -o assign8_greatest_common_divisor.exe "src\\assign8_greatest_common_divisor.o" 
+Info: Nothing to build for hello
+Info: Nothing to build for assign8_greatest_common_divisor
+00:49:13 **** Incremental Build of configuration Debug for project assign8_greatest_common_divisor ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign8_greatest_common_divisor.o" "..\\src\\assign8_greatest_common_divisor.cpp" 
+g++ -o assign8_greatest_common_divisor.exe "src\\assign8_greatest_common_divisor.o" 
+Info: Nothing to build for assign8_greatest_common_divisor
+Info: Nothing to build for assign8_greatest_common_divisor
+Info: Nothing to build for assign1_sum
+Info: Nothing to build for assign2_minimal_string
+Info: Nothing to build for assign3_quadratic_equation
+Info: Nothing to build for assign5_cost_of_goods
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign7_second_occurrence
+17:52:43 **** Incremental Build of configuration Debug for project assign8_greatest_common_divisor ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign8_greatest_common_divisor.o" "..\\src\\assign8_greatest_common_divisor.cpp" 
+g++ -o assign8_greatest_common_divisor.exe "src\\assign8_greatest_common_divisor.o" 
+17:52:45 **** Rebuild of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp:20:1: error: invalid use of template-name 'std::vector' without an argument list
+ std::vector binary_number;
+ ^~~
+..\src\assign9_binary_numbers.cpp:20:1: note: class template argument deduction is only available with -std=c++1z or -std=gnu++1z
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/vector:64:0,
+                 from ..\src\assign9_binary_numbers.cpp:14:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_vector.h:216:11: note: 'template<class _Tp, class _Alloc> class std::vector' declared here
+     class vector : protected _Vector_base<_Tp, _Alloc>
+           ^~~~~~
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:28:3: error: 'binary_number' was not declared in this scope
+   binary_number.push_back(modulo);
+   ^~~~~~~~~~~~~
+Info: Nothing to build for hello
+Info: Nothing to build for assign1_sum
+Info: Nothing to build for assign2_minimal_string
+Info: Nothing to build for assign3_quadratic_equation
+Info: Nothing to build for assign5_cost_of_goods
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign7_second_occurrence
+Info: Nothing to build for assign8_greatest_common_divisor
+17:53:04 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+Info: Nothing to build for hello
+Info: Nothing to build for assign9_binary_numbers
+Info: Nothing to build for assign1_sum
+Info: Nothing to build for assign2_minimal_string
+Info: Nothing to build for assign3_quadratic_equation
+Info: Nothing to build for assign5_cost_of_goods
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign7_second_occurrence
+Info: Nothing to build for assign8_greatest_common_divisor
+18:05:36 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:33:33: error: invalid use of member 'std::vector<_Tp, _Alloc>::size_type std::vector<_Tp, _Alloc>::size() const [with _Tp = int; _Alloc = std::allocator<int>; std::vector<_Tp, _Alloc>::size_type = long long unsigned int]' (did you forget the '&' ?)
+  for (int i=0; i< binary_number.size; i++)
+                   ~~~~~~~~~~~~~~^~~~
+Info: Nothing to build for hello
+18:05:39 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:33:33: error: invalid use of member 'std::vector<_Tp, _Alloc>::size_type std::vector<_Tp, _Alloc>::size() const [with _Tp = int; _Alloc = std::allocator<int>; std::vector<_Tp, _Alloc>::size_type = long long unsigned int]' (did you forget the '&' ?)
+  for (int i=0; i< binary_number.size; i++)
+                   ~~~~~~~~~~~~~~^~~~
+Info: Nothing to build for assign1_sum
+Info: Nothing to build for assign2_minimal_string
+Info: Nothing to build for assign3_quadratic_equation
+Info: Nothing to build for assign5_cost_of_goods
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign7_second_occurrence
+Info: Nothing to build for assign8_greatest_common_divisor
+18:06:24 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:33:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i < binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+Info: Nothing to build for hello
+Info: Nothing to build for assign1_sum
+Info: Nothing to build for assign2_minimal_string
+Info: Nothing to build for assign3_quadratic_equation
+Info: Nothing to build for assign5_cost_of_goods
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign7_second_occurrence
+Info: Nothing to build for assign8_greatest_common_divisor
+18:07:56 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:33:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i < binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+Info: Nothing to build for hello
+Info: Nothing to build for assign9_binary_numbers
+Info: Nothing to build for assign9_binary_numbers
+Info: Nothing to build for assign9_binary_numbers
+Info: Nothing to build for assign1_sum
+Info: Nothing to build for assign2_minimal_string
+Info: Nothing to build for assign3_quadratic_equation
+Info: Nothing to build for assign5_cost_of_goods
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign7_second_occurrence
+Info: Nothing to build for assign8_greatest_common_divisor
+18:09:57 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:43:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i < binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign9_binary_numbers.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for hello
+18:10:31 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+Info: Nothing to build for assign9_binary_numbers
+Info: Nothing to build for assign9_binary_numbers
+Info: Nothing to build for assign9_binary_numbers
+Info: Nothing to build for assign9_binary_numbers
+18:39:45 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:43:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i < binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+18:44:10 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:43:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i < binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+19:34:14 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:43:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i < binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+Info: Nothing to build for assign1_sum
+Info: Nothing to build for assign2_minimal_string
+Info: Nothing to build for assign3_quadratic_equation
+Info: Nothing to build for assign5_cost_of_goods
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign7_second_occurrence
+Info: Nothing to build for assign8_greatest_common_divisor
+19:34:45 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:43:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i <= binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+Info: Nothing to build for hello
+Info: Nothing to build for assign1_sum
+Info: Nothing to build for assign2_minimal_string
+Info: Nothing to build for assign3_quadratic_equation
+Info: Nothing to build for assign5_cost_of_goods
+Info: Nothing to build for assign6_even_numbers
+Info: Nothing to build for assign7_second_occurrence
+Info: Nothing to build for assign8_greatest_common_divisor
+Info: Nothing to build for assign9_binary_numbers
+Info: Nothing to build for hello
+Info: Nothing to build for assign9_binary_numbers
+19:47:48 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:45:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i <= binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+Info: Nothing to build for assign9_binary_numbers
+Info: Nothing to build for assign1_sum
+Info: Nothing to build for assign1_sum
+19:52:45 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:45:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i <= binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+Info: Nothing to build for assign9_binary_numbers
+19:53:49 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:45:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i <= binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+19:55:09 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:45:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i <= binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+19:55:29 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:45:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i <= binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+Info: Nothing to build for assign9_binary_numbers
+19:56:26 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:45:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i <= binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+19:58:37 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:45:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i <= binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+20:09:04 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:45:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i <= binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+Info: Nothing to build for assign9_binary_numbers
+20:11:20 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:45:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i <= binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+20:17:20 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:44:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i <= binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+Info: Nothing to build for assign9_binary_numbers
+20:22:28 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:42:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i <= binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~~
+..\src\assign9_binary_numbers.cpp:40:6: warning: variable 'last_one' set but not used [-Wunused-but-set-variable]
+  int last_one = 0;
+      ^~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+20:22:47 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:42:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i <= binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~~
+..\src\assign9_binary_numbers.cpp:40:6: warning: variable 'last_one' set but not used [-Wunused-but-set-variable]
+  int last_one = 0;
+      ^~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+Info: Nothing to build for assign9_binary_numbers
+20:25:32 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+..\src\assign9_binary_numbers.cpp: In function 'int main()':
+..\src\assign9_binary_numbers.cpp:42:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0; i <= binary_number.size(); i++)
+                ~~^~~~~~~~~~~~~~~~~~~~~~~
+..\src\assign9_binary_numbers.cpp:40:6: warning: variable 'last_one' set but not used [-Wunused-but-set-variable]
+  int last_one = 0;
+      ^~~~~~~~
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 
+20:26:03 **** Incremental Build of configuration Debug for project assign9_binary_numbers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign9_binary_numbers.o" "..\\src\\assign9_binary_numbers.cpp" 
+g++ -o assign9_binary_numbers.exe "src\\assign9_binary_numbers.o" 

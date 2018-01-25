@@ -1,0 +1,29 @@
+/*
+100 110 120 5 10	100
+115 110 120 5 10	109.25
+150 110 120 5 12.5	131.25
+ *
+ *
+ *
+ *
+ */
+
+#include <iostream>
+using namespace std;
+
+double N,A,B,X,Y;
+
+int main() {
+	cin>>N>>A>>B>>X>>Y;
+
+	auto finalDiscount = 0.0;
+	if (N>A){
+		finalDiscount = X;
+	}
+	if (N>B){
+		finalDiscount = Y;
+	}
+
+	cout<<(N*(1-finalDiscount));
+	return 0;
+}
