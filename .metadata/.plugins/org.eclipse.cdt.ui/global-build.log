@@ -618,3 +618,58 @@ g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign11_palindrome.o" "..\\src
   for (auto i=0; i < (word.length() / 2); i++){
                  ~~^~~~~~~~~~~~~~~~~~~~~
 g++ -o assign11_palindrome.exe "src\\assign11_palindrome.o" 
+17:55:00 **** Rebuild of configuration Debug for project assign12_palindrome_filter ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign12_palindrome_filter.o" "..\\src\\assign12_palindrome_filter.cpp" 
+..\src\assign12_palindrome_filter.cpp: In function 'bool IsPalindrom(std::__cxx11::string)':
+..\src\assign12_palindrome_filter.cpp:16:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i=0; i < word.length() / 2; i++){
+                 ~~^~~~~~~~~~~~~~~~~~~
+..\src\assign12_palindrome_filter.cpp: In function 'std::vector<std::__cxx11::basic_string<char> > PalindromFilter(std::vector<std::__cxx11::basic_string<char> >)':
+..\src\assign12_palindrome_filter.cpp:24:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ -o assign12_palindrome_filter.exe "src\\assign12_palindrome_filter.o" 
+18:15:32 **** Incremental Build of configuration Debug for project assign12_palindrome_filter ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign12_palindrome_filter.o" "..\\src\\assign12_palindrome_filter.cpp" 
+..\src\assign12_palindrome_filter.cpp: In function 'bool IsPalindrom(std::__cxx11::string)':
+..\src\assign12_palindrome_filter.cpp:18:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i=0; i < word.length() / 2; i++){
+                 ~~^~~~~~~~~~~~~~~~~~~
+..\src\assign12_palindrome_filter.cpp: In function 'std::vector<std::__cxx11::basic_string<char> > PalindromFilter(std::vector<std::__cxx11::basic_string<char> >, int)':
+..\src\assign12_palindrome_filter.cpp:27:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   if (s.length() < minLength || !IsPalindrom(s)) continue;
+       ~~~~~~~~~~~^~~~~~~~~~~
+g++ -o assign12_palindrome_filter.exe "src\\assign12_palindrome_filter.o" 
+Info: Nothing to build for assign12_palindrome_filter
+18:16:18 **** Incremental Build of configuration Debug for project assign12_palindrome_filter ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign12_palindrome_filter.o" "..\\src\\assign12_palindrome_filter.cpp" 
+..\src\assign12_palindrome_filter.cpp: In function 'bool IsPalindrom(std::__cxx11::string)':
+..\src\assign12_palindrome_filter.cpp:18:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i=0; i < word.length() / 2; i++){
+                 ~~^~~~~~~~~~~~~~~~~~~
+..\src\assign12_palindrome_filter.cpp: In function 'std::vector<std::__cxx11::basic_string<char> > PalindromFilter(std::vector<std::__cxx11::basic_string<char> >, int)':
+..\src\assign12_palindrome_filter.cpp:27:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   if (s.length() < minLength || !IsPalindrom(s)) continue;
+       ~~~~~~~~~~~^~~~~~~~~~~
+g++ -o assign12_palindrome_filter.exe "src\\assign12_palindrome_filter.o" 
+Info: Nothing to build for assign12_palindrome_filter
+18:16:34 **** Incremental Build of configuration Debug for project assign12_palindrome_filter ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign12_palindrome_filter.o" "..\\src\\assign12_palindrome_filter.cpp" 
+..\src\assign12_palindrome_filter.cpp: In function 'bool IsPalindrom(std::__cxx11::string)':
+..\src\assign12_palindrome_filter.cpp:18:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i=0; i < word.length() / 2; i++){
+                 ~~^~~~~~~~~~~~~~~~~~~
+..\src\assign12_palindrome_filter.cpp: In function 'std::vector<std::__cxx11::basic_string<char> > PalindromFilter(std::vector<std::__cxx11::basic_string<char> >, int)':
+..\src\assign12_palindrome_filter.cpp:27:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   if (s.length() < minLength || !IsPalindrom(s)) continue;
+       ~~~~~~~~~~~^~~~~~~~~~~
+g++ -o assign12_palindrome_filter.exe "src\\assign12_palindrome_filter.o" 
+19:15:05 **** Rebuild of configuration Debug for project assign13_maximizer ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign13_maximizer.o" "..\\src\\assign13_maximizer.cpp" 
+g++ -o assign13_maximizer.exe "src\\assign13_maximizer.o" 
+Info: Nothing to build for assign13_maximizer

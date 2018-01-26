@@ -10440,3 +10440,9 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.launchbar.core 2 0 2018-01-26 16:06:08.115
 !MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.cdt.core 1 0 2018-01-26 17:53:25.593
+!MESSAGE Indexed 'assign12_palindrome_filter' (1 sources, 134 headers) in 3.36 sec: 14,693 declarations; 22,474 references; 0 unresolved inclusions; 0 syntax errors; 3 unresolved names (0.0081%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2018-01-26 19:09:28.980
+!MESSAGE Indexed 'assign13_maximizer' (1 sources, 134 headers) in 1.55 sec: 14,693 declarations; 22,474 references; 0 unresolved inclusions; 0 syntax errors; 3 unresolved names (0.0081%)
