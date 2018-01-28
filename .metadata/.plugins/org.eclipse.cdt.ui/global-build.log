@@ -673,3 +673,623 @@ Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign13_maximizer.o" "..\\src\\assign13_maximizer.cpp" 
 g++ -o assign13_maximizer.exe "src\\assign13_maximizer.o" 
 Info: Nothing to build for assign13_maximizer
+19:56:16 **** Rebuild of configuration Debug for project assign14_string_mover ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign14_string_mover.o" "..\\src\\assign14_string_mover.cpp" 
+g++ -o assign14_string_mover.exe "src\\assign14_string_mover.o" 
+Info: Nothing to build for assign14_string_mover
+20:10:26 **** Rebuild of configuration Debug for project assign15_reverse_of_sequence ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign15_reverse_of_sequence.o" "..\\src\\assign15_reverse_of_sequence.cpp" 
+..\src\assign15_reverse_of_sequence.cpp: In function 'void Reverse(std::vector<int>&)':
+..\src\assign15_reverse_of_sequence.cpp:13:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i=0; i < v.size()/2; ++i){
+                 ~~^~~~~~~~~~~~
+g++ -o assign15_reverse_of_sequence.exe "src\\assign15_reverse_of_sequence.o" 
+Info: Nothing to build for assign15_reverse_of_sequence
+20:12:01 **** Incremental Build of configuration Debug for project assign15_reverse_of_sequence ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign15_reverse_of_sequence.o" "..\\src\\assign15_reverse_of_sequence.cpp" 
+..\src\assign15_reverse_of_sequence.cpp: In function 'void Reverse(std::vector<int>&)':
+..\src\assign15_reverse_of_sequence.cpp:13:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i=0; i < v.size()/2; ++i){
+                 ~~^~~~~~~~~~~~
+g++ -o assign15_reverse_of_sequence.exe "src\\assign15_reverse_of_sequence.o" 
+20:25:40 **** Incremental Build of configuration Debug for project assign15_reverse_of_sequence ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign15_reverse_of_sequence.o" "..\\src\\assign15_reverse_of_sequence.cpp" 
+..\src\assign15_reverse_of_sequence.cpp: In function 'void Reverse(std::vector<int>&)':
+..\src\assign15_reverse_of_sequence.cpp:13:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i=0; i < v.size()/2; ++i){
+                 ~~^~~~~~~~~~~~
+g++ -o assign15_reverse_of_sequence.exe "src\\assign15_reverse_of_sequence.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-crt0_c.o):crt0_c.c:(.text.startup+0x2e): undefined reference to `WinMain'
+collect2.exe: error: ld returned 1 exit status
+20:25:41 **** Rebuild of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+Info: Nothing to build for assign16_reversed
+Info: Nothing to build for assign16_reversed
+20:26:52 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+20:27:25 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+Info: Nothing to build for assign16_reversed
+20:28:33 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+Info: Nothing to build for assign16_reversed
+20:30:48 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+20:31:06 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+20:31:14 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+20:31:22 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+20:31:37 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+20:31:57 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+20:32:09 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign16_reversed.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+20:32:29 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+20:32:58 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+20:34:04 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+20:34:32 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+20:37:35 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+..\src\assign16_reversed.cpp: In function 'std::vector<int> Reversed(const std::vector<int>&)':
+..\src\assign16_reversed.cpp:15:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < size; i++){
+                   ~~^~~~~~
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-crt0_c.o):crt0_c.c:(.text.startup+0x2e): undefined reference to `WinMain'
+collect2.exe: error: ld returned 1 exit status
+20:37:51 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+..\src\assign16_reversed.cpp: In function 'std::vector<int> Reversed(const std::vector<int>&)':
+..\src\assign16_reversed.cpp:15:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < size; i++){
+                   ~~^~~~~~
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+20:39:43 **** Incremental Build of configuration Debug for project assign16_reversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign16_reversed.o" "..\\src\\assign16_reversed.cpp" 
+..\src\assign16_reversed.cpp: In function 'void Reverse(std::vector<int>&)':
+..\src\assign16_reversed.cpp:13:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i=0; i < v.size()/2; ++i){
+                 ~~^~~~~~~~~~~~
+g++ -o assign16_reversed.exe "src\\assign16_reversed.o" 
+22:38:43 **** Rebuild of configuration Debug for project assign17_average_temp ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign17_average_temp.o" "..\\src\\assign17_average_temp.cpp" 
+..\src\assign17_average_temp.cpp: In function 'int main()':
+..\src\assign17_average_temp.cpp:37:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(auto i=0; i < day_temps.size(); i++){
+                ~~^~~~~~~~~~~~~~~~~~
+g++ -o assign17_average_temp.exe "src\\assign17_average_temp.o" 
+Info: Nothing to build for assign17_average_temp
+23:15:12 **** Incremental Build of configuration Debug for project assign17_average_temp ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign17_average_temp.o" "..\\src\\assign17_average_temp.cpp" 
+..\src\assign17_average_temp.cpp: In function 'int main()':
+..\src\assign17_average_temp.cpp:41:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(auto i=0; i < day_temps.size(); i++){
+                ~~^~~~~~~~~~~~~~~~~~
+g++ -o assign17_average_temp.exe "src\\assign17_average_temp.o" 
+Info: Nothing to build for assign17_average_temp
+23:16:09 **** Incremental Build of configuration Debug for project assign17_average_temp ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign17_average_temp.o" "..\\src\\assign17_average_temp.cpp" 
+..\src\assign17_average_temp.cpp: In function 'int main()':
+..\src\assign17_average_temp.cpp:39:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(auto i=0; i < day_temps.size(); i++){
+                ~~^~~~~~~~~~~~~~~~~~
+g++ -o assign17_average_temp.exe "src\\assign17_average_temp.o" 
+23:21:54 **** Incremental Build of configuration Debug for project assign17_average_temp ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign17_average_temp.o" "..\\src\\assign17_average_temp.cpp" 
+..\src\assign17_average_temp.cpp: In function 'int main()':
+..\src\assign17_average_temp.cpp:46:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(auto i=0; i < day_temps.size(); i++){
+                ~~^~~~~~~~~~~~~~~~~~
+g++ -o assign17_average_temp.exe "src\\assign17_average_temp.o" 
+23:22:12 **** Incremental Build of configuration Debug for project assign17_average_temp ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign17_average_temp.o" "..\\src\\assign17_average_temp.cpp" 
+..\src\assign17_average_temp.cpp: In function 'int main()':
+..\src\assign17_average_temp.cpp:46:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(auto i=0; i < day_temps.size(); i++){
+                ~~^~~~~~~~~~~~~~~~~~
+g++ -o assign17_average_temp.exe "src\\assign17_average_temp.o" 
+Info: Nothing to build for assign17_average_temp
+13:53:57 **** Rebuild of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int Worry_count(const std::vector<bool>&)':
+..\src\assign18_queue.cpp:27:22: error: cannot bind non-const lvalue reference of type 'bool&' to an rvalue of type 'std::_Bit_const_iterator::const_reference {aka bool}'
+  for (auto& person : queue){
+                      ^~~~~
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:42:16: error: 'cmd' declared as reference but not initialized
+  const string& cmd;
+                ^~~
+..\src\assign18_queue.cpp:45:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size();){
+                   ~~^~~~~~~~~~~~~~~~~
+..\src\assign18_queue.cpp:46:19: error: passing 'const string {aka const std::__cxx11::basic_string<char>}' as 'this' argument discards qualifiers [-fpermissive]
+   cmd = commands[i];
+                   ^
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/string:52:0,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/locale_classes.h:40,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/ios_base.h:41,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ios:42,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ostream:38,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:39,
+                 from ..\src\assign18_queue.cpp:21:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/basic_string.h:627:7: note:   in call to 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>& std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::operator=(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'
+       operator=(const basic_string& __str)
+       ^~~~~~~~
+..\src\assign18_queue.cpp:47:13: error: switch quantity not an integer
+   switch(cmd){
+             ^
+..\src\assign18_queue.cpp:48:9: error: could not convert '"WORRY "' from 'const char [7]' to '<type error>'
+    case "WORRY " : {
+         ^~~~~~~~
+..\src\assign18_queue.cpp:53:9: error: could not convert '"QUIET "' from 'const char [7]' to '<type error>'
+    case "QUIET " : {
+         ^~~~~~~~
+..\src\assign18_queue.cpp:58:9: error: could not convert '"COME "' from 'const char [6]' to '<type error>'
+    case "COME " : {
+         ^~~~~~~
+..\src\assign18_queue.cpp:69:9: error: could not convert '"WORRY_COUNT "' from 'const char [13]' to '<type error>'
+    case "WORRY_COUNT " : {
+         ^~~~~~~~~~~~~~
+Info: Nothing to build for assign17_average_temp
+14:00:45 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:46:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size();){
+                   ~~^~~~~~~~~~~~~~~~~
+..\src\assign18_queue.cpp:54:4: error: case label '"QUIET"' not within a switch statement
+    case "QUIET" : {
+    ^~~~
+..\src\assign18_queue.cpp:59:4: error: case label '"COME "' not within a switch statement
+    case "COME " : {
+    ^~~~
+..\src\assign18_queue.cpp:70:4: error: case label '"WORRY_COUNT "' not within a switch statement
+    case "WORRY_COUNT " : {
+    ^~~~
+..\src\assign18_queue.cpp: At global scope:
+..\src\assign18_queue.cpp:78:2: error: expected unqualified-id before 'return'
+  return 0;
+  ^~~~~~
+..\src\assign18_queue.cpp:79:1: error: expected declaration before '}' token
+ }
+ ^
+Info: Nothing to build for assign17_average_temp
+14:00:50 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int Worry_count(const std::vector<bool>&)':
+..\src\assign18_queue.cpp:27:22: error: cannot bind non-const lvalue reference of type 'bool&' to an rvalue of type 'std::_Bit_const_iterator::const_reference {aka bool}'
+  for (auto& person : queue){
+                      ^~~~~
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:46:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size();){
+                   ~~^~~~~~~~~~~~~~~~~
+..\src\assign18_queue.cpp:54:4: error: case label '"QUIET"' not within a switch statement
+    case "QUIET" : {
+    ^~~~
+..\src\assign18_queue.cpp:59:4: error: case label '"COME "' not within a switch statement
+    case "COME " : {
+    ^~~~
+..\src\assign18_queue.cpp:70:4: error: case label '"WORRY_COUNT "' not within a switch statement
+    case "WORRY_COUNT " : {
+    ^~~~
+..\src\assign18_queue.cpp: At global scope:
+..\src\assign18_queue.cpp:78:2: error: expected unqualified-id before 'return'
+  return 0;
+  ^~~~~~
+..\src\assign18_queue.cpp:79:1: error: expected declaration before '}' token
+ }
+ ^
+Info: Nothing to build for assign17_average_temp
+14:01:10 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:46:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size();){
+                   ~~^~~~~~~~~~~~~~~~~
+..\src\assign18_queue.cpp:54:4: error: case label '"QUIET"' not within a switch statement
+    case "QUIET" : {
+    ^~~~
+..\src\assign18_queue.cpp:59:4: error: case label '"COME "' not within a switch statement
+    case "COME " : {
+    ^~~~
+..\src\assign18_queue.cpp:70:4: error: case label '"WORRY_COUNT "' not within a switch statement
+    case "WORRY_COUNT " : {
+    ^~~~
+..\src\assign18_queue.cpp: At global scope:
+..\src\assign18_queue.cpp:78:2: error: expected unqualified-id before 'return'
+  return 0;
+  ^~~~~~
+..\src\assign18_queue.cpp:79:1: error: expected declaration before '}' token
+ }
+ ^
+Info: Nothing to build for assign17_average_temp
+14:02:07 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:46:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size();){
+                   ~~^~~~~~~~~~~~~~~~~
+..\src\assign18_queue.cpp:54:4: error: case label '"QUIET"' not within a switch statement
+    case "QUIET" : {
+    ^~~~
+..\src\assign18_queue.cpp:59:4: error: case label '"COME "' not within a switch statement
+    case "COME " : {
+    ^~~~
+..\src\assign18_queue.cpp:70:4: error: case label '"WORRY_COUNT "' not within a switch statement
+    case "WORRY_COUNT " : {
+    ^~~~
+..\src\assign18_queue.cpp: At global scope:
+..\src\assign18_queue.cpp:78:2: error: expected unqualified-id before 'return'
+  return 0;
+  ^~~~~~
+..\src\assign18_queue.cpp:79:1: error: expected declaration before '}' token
+ }
+ ^
+Info: Nothing to build for assign17_average_temp
+14:03:58 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:46:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size();){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+Info: Nothing to build for assign17_average_temp
+14:04:26 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:46:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size();){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+Info: Nothing to build for assign18_queue
+Info: Nothing to build for assign17_average_temp
+14:05:42 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:46:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+Info: Nothing to build for assign18_queue
+Info: Nothing to build for assign17_average_temp
+14:08:56 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:46:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+Info: Nothing to build for assign17_average_temp
+14:35:12 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:50:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+Info: Nothing to build for assign18_queue
+Info: Nothing to build for assign17_average_temp
+14:35:43 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:50:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+Info: Nothing to build for assign18_queue
+14:38:22 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:50:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+Info: Nothing to build for assign17_average_temp
+Info: Nothing to build for assign18_queue
+Info: Nothing to build for assign18_queue
+Info: Nothing to build for assign17_average_temp
+14:43:28 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:50:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+Info: Nothing to build for assign18_queue
+Info: Nothing to build for assign17_average_temp
+14:45:47 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:50:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+Info: Nothing to build for assign18_queue
+14:47:28 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:49:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+14:48:07 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:49:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+14:50:37 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:49:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+14:51:33 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:49:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+14:52:20 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:49:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+14:53:07 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:49:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+14:54:02 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:49:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+Info: Nothing to build for assign17_average_temp
+14:54:18 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:49:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for assign17_average_temp
+14:54:27 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for assign17_average_temp
+14:54:33 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for assign17_average_temp
+14:54:34 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for assign17_average_temp
+14:54:34 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for assign17_average_temp
+14:54:35 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for assign17_average_temp
+14:54:36 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for assign17_average_temp
+14:54:36 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for assign17_average_temp
+14:54:37 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for assign17_average_temp
+14:54:37 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:54:39 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:56:09 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:49:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for assign17_average_temp
+14:56:27 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for assign17_average_temp
+14:56:45 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for assign17_average_temp
+14:56:45 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for assign17_average_temp
+14:56:46 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for assign17_average_temp
+14:56:47 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for assign17_average_temp
+14:56:47 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for assign17_average_temp
+14:56:48 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign18_queue.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:10:48 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+15:11:52 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:49:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+15:13:32 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:49:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+Info: Nothing to build for assign17_average_temp
+15:14:38 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:49:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+Info: Nothing to build for assign18_queue
+15:15:12 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:49:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
+15:15:40 **** Incremental Build of configuration Debug for project assign18_queue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign18_queue.o" "..\\src\\assign18_queue.cpp" 
+..\src\assign18_queue.cpp: In function 'int main()':
+..\src\assign18_queue.cpp:49:21: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (auto i = 0; i < commands.size(); i++){
+                   ~~^~~~~~~~~~~~~~~~~
+g++ -o assign18_queue.exe "src\\assign18_queue.o" 
