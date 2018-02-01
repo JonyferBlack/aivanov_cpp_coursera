@@ -12082,3 +12082,12 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.launchbar.core 2 0 2018-02-01 14:17:04.685
 !MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.cdt.core 1 0 2018-02-01 17:36:44.909
+!MESSAGE Indexed 'assign23_bus_stops_2' (1 sources, 0 headers) in 0.017 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2018-02-01 18:41:16.241
+!MESSAGE Indexed 'assign24_uniq_strings' (1 sources, 134 headers) in 1.72 sec: 14,693 declarations; 22,474 references; 0 unresolved inclusions; 0 syntax errors; 3 unresolved names (0.0081%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2018-02-01 18:56:27.605
+!MESSAGE Indexed 'assign25_set_of_the_map' (1 sources, 0 headers) in 0.002 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)

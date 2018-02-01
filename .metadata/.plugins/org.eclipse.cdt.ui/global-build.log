@@ -4608,3 +4608,405 @@ Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign22_bus_stops_1.o" "..\\src\\assign22_bus_stops_1.cpp" 
 g++ -o assign22_bus_stops_1.exe "src\\assign22_bus_stops_1.o" 
 Info: Nothing to build for assign22_bus_stops_1
+16:05:42 **** Incremental Build of configuration Debug for project assign22_bus_stops_1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign22_bus_stops_1.o" "..\\src\\assign22_bus_stops_1.cpp" 
+g++ -o assign22_bus_stops_1.exe "src\\assign22_bus_stops_1.o" 
+16:06:58 **** Incremental Build of configuration Debug for project assign22_bus_stops_1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign22_bus_stops_1.o" "..\\src\\assign22_bus_stops_1.cpp" 
+g++ -o assign22_bus_stops_1.exe "src\\assign22_bus_stops_1.o" 
+Info: Nothing to build for assign22_bus_stops_1
+16:41:38 **** Incremental Build of configuration Debug for project assign22_bus_stops_1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign22_bus_stops_1.o" "..\\src\\assign22_bus_stops_1.cpp" 
+g++ -o assign22_bus_stops_1.exe "src\\assign22_bus_stops_1.o" 
+16:44:04 **** Incremental Build of configuration Debug for project assign22_bus_stops_1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign22_bus_stops_1.o" "..\\src\\assign22_bus_stops_1.cpp" 
+g++ -o assign22_bus_stops_1.exe "src\\assign22_bus_stops_1.o" 
+16:46:46 **** Incremental Build of configuration Debug for project assign22_bus_stops_1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign22_bus_stops_1.o" "..\\src\\assign22_bus_stops_1.cpp" 
+g++ -o assign22_bus_stops_1.exe "src\\assign22_bus_stops_1.o" 
+16:55:17 **** Incremental Build of configuration Debug for project assign22_bus_stops_1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign22_bus_stops_1.o" "..\\src\\assign22_bus_stops_1.cpp" 
+g++ -o assign22_bus_stops_1.exe "src\\assign22_bus_stops_1.o" 
+17:00:55 **** Incremental Build of configuration Debug for project assign22_bus_stops_1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign22_bus_stops_1.o" "..\\src\\assign22_bus_stops_1.cpp" 
+g++ -o assign22_bus_stops_1.exe "src\\assign22_bus_stops_1.o" 
+17:16:41 **** Incremental Build of configuration Debug for project assign22_bus_stops_1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign22_bus_stops_1.o" "..\\src\\assign22_bus_stops_1.cpp" 
+g++ -o assign22_bus_stops_1.exe "src\\assign22_bus_stops_1.o" 
+17:52:44 **** Rebuild of configuration Debug for project assign23_bus_stops_2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign23_bus_stops_2.o" "..\\src\\assign23_bus_stops_2.cpp" 
+..\src\assign23_bus_stops_2.cpp: In function 'int main()':
+..\src\assign23_bus_stops_2.cpp:17:43: error: no matching function for call to 'std::map<std::vector<std::__cxx11::basic_string<char> >, int>::map(int&)'
+  map<vector<string>, int> buses_by_stops(N);
+                                           ^
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/map:61:0,
+                 from ..\src\assign23_bus_stops_2.cpp:7:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:282:2: note: candidate: template<class _InputIterator> std::map<_Key, _Tp, _Compare, _Alloc>::map(_InputIterator, _InputIterator, const _Compare&, const allocator_type&)
+  map(_InputIterator __first, _InputIterator __last,
+  ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:282:2: note:   template argument deduction/substitution failed:
+..\src\assign23_bus_stops_2.cpp:17:43: note:   candidate expects 4 arguments, 1 provided
+  map<vector<string>, int> buses_by_stops(N);
+                                           ^
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/map:61:0,
+                 from ..\src\assign23_bus_stops_2.cpp:7:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:265:2: note: candidate: template<class _InputIterator> std::map<_Key, _Tp, _Compare, _Alloc>::map(_InputIterator, _InputIterator)
+  map(_InputIterator __first, _InputIterator __last)
+  ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:265:2: note:   template argument deduction/substitution failed:
+..\src\assign23_bus_stops_2.cpp:17:43: note:   candidate expects 2 arguments, 1 provided
+  map<vector<string>, int> buses_by_stops(N);
+                                           ^
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/map:61:0,
+                 from ..\src\assign23_bus_stops_2.cpp:7:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:248:2: note: candidate: template<class _InputIterator> std::map<_Key, _Tp, _Compare, _Alloc>::map(_InputIterator, _InputIterator, const allocator_type&)
+  map(_InputIterator __first, _InputIterator __last,
+  ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:248:2: note:   template argument deduction/substitution failed:
+..\src\assign23_bus_stops_2.cpp:17:43: note:   candidate expects 3 arguments, 1 provided
+  map<vector<string>, int> buses_by_stops(N);
+                                           ^
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/map:61:0,
+                 from ..\src\assign23_bus_stops_2.cpp:7:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:242:7: note: candidate: std::map<_Key, _Tp, _Compare, _Alloc>::map(std::initializer_list<std::pair<const _Key, _Tp> >, const allocator_type&) [with _Key = std::vector<std::__cxx11::basic_string<char> >; _Tp = int; _Compare = std::less<std::vector<std::__cxx11::basic_string<char> > >; _Alloc = std::allocator<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >; std::map<_Key, _Tp, _Compare, _Alloc>::allocator_type = std::allocator<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >]
+       map(initializer_list<value_type> __l, const allocator_type& __a)
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:242:7: note:   candidate expects 2 arguments, 1 provided
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:236:7: note: candidate: std::map<_Key, _Tp, _Compare, _Alloc>::map(std::map<_Key, _Tp, _Compare, _Alloc>&&, const allocator_type&) [with _Key = std::vector<std::__cxx11::basic_string<char> >; _Tp = int; _Compare = std::less<std::vector<std::__cxx11::basic_string<char> > >; _Alloc = std::allocator<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >; std::map<_Key, _Tp, _Compare, _Alloc>::allocator_type = std::allocator<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >]
+       map(map&& __m, const allocator_type& __a)
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:236:7: note:   candidate expects 2 arguments, 1 provided
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:232:7: note: candidate: std::map<_Key, _Tp, _Compare, _Alloc>::map(const std::map<_Key, _Tp, _Compare, _Alloc>&, const allocator_type&) [with _Key = std::vector<std::__cxx11::basic_string<char> >; _Tp = int; _Compare = std::less<std::vector<std::__cxx11::basic_string<char> > >; _Alloc = std::allocator<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >; std::map<_Key, _Tp, _Compare, _Alloc>::allocator_type = std::allocator<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >]
+       map(const map& __m, const allocator_type& __a)
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:232:7: note:   candidate expects 2 arguments, 1 provided
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:228:7: note: candidate: std::map<_Key, _Tp, _Compare, _Alloc>::map(const allocator_type&) [with _Key = std::vector<std::__cxx11::basic_string<char> >; _Tp = int; _Compare = std::less<std::vector<std::__cxx11::basic_string<char> > >; _Alloc = std::allocator<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >; std::map<_Key, _Tp, _Compare, _Alloc>::allocator_type = std::allocator<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >]
+       map(const allocator_type& __a)
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:228:7: note:   no known conversion for argument 1 from 'int' to 'const allocator_type& {aka const std::allocator<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >&}'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:220:7: note: candidate: std::map<_Key, _Tp, _Compare, _Alloc>::map(std::initializer_list<std::pair<const _Key, _Tp> >, const _Compare&, const allocator_type&) [with _Key = std::vector<std::__cxx11::basic_string<char> >; _Tp = int; _Compare = std::less<std::vector<std::__cxx11::basic_string<char> > >; _Alloc = std::allocator<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >; std::map<_Key, _Tp, _Compare, _Alloc>::allocator_type = std::allocator<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >]
+       map(initializer_list<value_type> __l,
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:220:7: note:   no known conversion for argument 1 from 'int' to 'std::initializer_list<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:207:7: note: candidate: std::map<_Key, _Tp, _Compare, _Alloc>::map(std::map<_Key, _Tp, _Compare, _Alloc>&&) [with _Key = std::vector<std::__cxx11::basic_string<char> >; _Tp = int; _Compare = std::less<std::vector<std::__cxx11::basic_string<char> > >; _Alloc = std::allocator<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >]
+       map(map&&) = default;
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:207:7: note:   no known conversion for argument 1 from 'int' to 'std::map<std::vector<std::__cxx11::basic_string<char> >, int>&&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:199:7: note: candidate: std::map<_Key, _Tp, _Compare, _Alloc>::map(const std::map<_Key, _Tp, _Compare, _Alloc>&) [with _Key = std::vector<std::__cxx11::basic_string<char> >; _Tp = int; _Compare = std::less<std::vector<std::__cxx11::basic_string<char> > >; _Alloc = std::allocator<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >]
+       map(const map&) = default;
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:199:7: note:   no known conversion for argument 1 from 'int' to 'const std::map<std::vector<std::__cxx11::basic_string<char> >, int>&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:186:7: note: candidate: std::map<_Key, _Tp, _Compare, _Alloc>::map(const _Compare&, const allocator_type&) [with _Key = std::vector<std::__cxx11::basic_string<char> >; _Tp = int; _Compare = std::less<std::vector<std::__cxx11::basic_string<char> > >; _Alloc = std::allocator<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >; std::map<_Key, _Tp, _Compare, _Alloc>::allocator_type = std::allocator<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >]
+       map(const _Compare& __comp,
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:186:7: note:   no known conversion for argument 1 from 'int' to 'const std::less<std::vector<std::__cxx11::basic_string<char> > >&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:177:7: note: candidate: std::map<_Key, _Tp, _Compare, _Alloc>::map() [with _Key = std::vector<std::__cxx11::basic_string<char> >; _Tp = int; _Compare = std::less<std::vector<std::__cxx11::basic_string<char> > >; _Alloc = std::allocator<std::pair<const std::vector<std::__cxx11::basic_string<char> >, int> >]
+       map() = default;
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:177:7: note:   candidate expects 0 arguments, 1 provided
+..\src\assign23_bus_stops_2.cpp:22:13: error: no match for call to '(std::vector<std::__cxx11::basic_string<char> >) (int&)'
+   tmp(length);
+             ^
+..\src\assign23_bus_stops_2.cpp:23:14: warning: unused variable 'next' [-Wunused-variable]
+   for (auto& next : tmp){
+              ^~~~
+17:53:05 **** Incremental Build of configuration Debug for project assign23_bus_stops_2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign23_bus_stops_2.o" "..\\src\\assign23_bus_stops_2.cpp" 
+..\src\assign23_bus_stops_2.cpp: In function 'int main()':
+..\src\assign23_bus_stops_2.cpp:22:13: error: no match for call to '(std::vector<std::__cxx11::basic_string<char> >) (int&)'
+   tmp(length);
+             ^
+..\src\assign23_bus_stops_2.cpp:23:14: warning: unused variable 'next' [-Wunused-variable]
+   for (auto& next : tmp){
+              ^~~~
+17:54:41 **** Incremental Build of configuration Debug for project assign23_bus_stops_2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign23_bus_stops_2.o" "..\\src\\assign23_bus_stops_2.cpp" 
+..\src\assign23_bus_stops_2.cpp: In function 'int main()':
+..\src\assign23_bus_stops_2.cpp:23:14: warning: unused variable 'next' [-Wunused-variable]
+   for (auto& next : tmp){
+              ^~~~
+g++ -o assign23_bus_stops_2.exe "src\\assign23_bus_stops_2.o" 
+18:02:27 **** Incremental Build of configuration Debug for project assign23_bus_stops_2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign23_bus_stops_2.o" "..\\src\\assign23_bus_stops_2.cpp" 
+g++ -o assign23_bus_stops_2.exe "src\\assign23_bus_stops_2.o" 
+18:03:54 **** Incremental Build of configuration Debug for project assign23_bus_stops_2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign23_bus_stops_2.o" "..\\src\\assign23_bus_stops_2.cpp" 
+g++ -o assign23_bus_stops_2.exe "src\\assign23_bus_stops_2.o" 
+18:05:29 **** Incremental Build of configuration Debug for project assign23_bus_stops_2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign23_bus_stops_2.o" "..\\src\\assign23_bus_stops_2.cpp" 
+g++ -o assign23_bus_stops_2.exe "src\\assign23_bus_stops_2.o" 
+18:06:04 **** Incremental Build of configuration Debug for project assign23_bus_stops_2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign23_bus_stops_2.o" "..\\src\\assign23_bus_stops_2.cpp" 
+g++ -o assign23_bus_stops_2.exe "src\\assign23_bus_stops_2.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign23_bus_stops_2.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:06:47 **** Incremental Build of configuration Debug for project assign23_bus_stops_2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign23_bus_stops_2.o" "..\\src\\assign23_bus_stops_2.cpp" 
+g++ -o assign23_bus_stops_2.exe "src\\assign23_bus_stops_2.o" 
+E:/Gdrive/Cpp_Compilers/g++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file assign23_bus_stops_2.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:07:01 **** Incremental Build of configuration Debug for project assign23_bus_stops_2 ****
+Info: Internal Builder is used for build
+g++ -o assign23_bus_stops_2.exe "src\\assign23_bus_stops_2.o" 
+18:07:28 **** Incremental Build of configuration Debug for project assign23_bus_stops_2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign23_bus_stops_2.o" "..\\src\\assign23_bus_stops_2.cpp" 
+g++ -o assign23_bus_stops_2.exe "src\\assign23_bus_stops_2.o" 
+18:08:02 **** Incremental Build of configuration Debug for project assign23_bus_stops_2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign23_bus_stops_2.o" "..\\src\\assign23_bus_stops_2.cpp" 
+g++ -o assign23_bus_stops_2.exe "src\\assign23_bus_stops_2.o" 
+Info: Nothing to build for assign23_bus_stops_2
+Info: Nothing to build for assign23_bus_stops_2
+18:50:21 **** Rebuild of configuration Debug for project assign24_uniq_strings ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign24_uniq_strings.o" "..\\src\\assign24_uniq_strings.cpp" 
+..\src\assign24_uniq_strings.cpp: In function 'int main()':
+..\src\assign24_uniq_strings.cpp:13:21: error: no matching function for call to 'std::set<std::__cxx11::basic_string<char> >::set(int&)'
+  set<string> m_set(N);
+                     ^
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/set:61:0,
+                 from ..\src\assign24_uniq_strings.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:261:2: note: candidate: template<class _InputIterator> std::set<_Key, _Compare, _Alloc>::set(_InputIterator, _InputIterator, const allocator_type&)
+  set(_InputIterator __first, _InputIterator __last,
+  ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:261:2: note:   template argument deduction/substitution failed:
+..\src\assign24_uniq_strings.cpp:13:21: note:   candidate expects 3 arguments, 1 provided
+  set<string> m_set(N);
+                     ^
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/set:61:0,
+                 from ..\src\assign24_uniq_strings.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:255:7: note: candidate: std::set<_Key, _Compare, _Alloc>::set(std::initializer_list<_Tp>, const allocator_type&) [with _Key = std::__cxx11::basic_string<char>; _Compare = std::less<std::__cxx11::basic_string<char> >; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::set<_Key, _Compare, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]
+       set(initializer_list<value_type> __l, const allocator_type& __a)
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:255:7: note:   candidate expects 2 arguments, 1 provided
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:249:7: note: candidate: std::set<_Key, _Compare, _Alloc>::set(std::set<_Key, _Compare, _Alloc>&&, const allocator_type&) [with _Key = std::__cxx11::basic_string<char>; _Compare = std::less<std::__cxx11::basic_string<char> >; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::set<_Key, _Compare, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]
+       set(set&& __x, const allocator_type& __a)
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:249:7: note:   candidate expects 2 arguments, 1 provided
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:245:7: note: candidate: std::set<_Key, _Compare, _Alloc>::set(const std::set<_Key, _Compare, _Alloc>&, const allocator_type&) [with _Key = std::__cxx11::basic_string<char>; _Compare = std::less<std::__cxx11::basic_string<char> >; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::set<_Key, _Compare, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]
+       set(const set& __x, const allocator_type& __a)
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:245:7: note:   candidate expects 2 arguments, 1 provided
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:241:7: note: candidate: std::set<_Key, _Compare, _Alloc>::set(const allocator_type&) [with _Key = std::__cxx11::basic_string<char>; _Compare = std::less<std::__cxx11::basic_string<char> >; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::set<_Key, _Compare, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]
+       set(const allocator_type& __a)
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:241:7: note:   no known conversion for argument 1 from 'int' to 'const allocator_type& {aka const std::allocator<std::__cxx11::basic_string<char> >&}'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:233:7: note: candidate: std::set<_Key, _Compare, _Alloc>::set(std::initializer_list<_Tp>, const _Compare&, const allocator_type&) [with _Key = std::__cxx11::basic_string<char>; _Compare = std::less<std::__cxx11::basic_string<char> >; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::set<_Key, _Compare, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]
+       set(initializer_list<value_type> __l,
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:233:7: note:   no known conversion for argument 1 from 'int' to 'std::initializer_list<std::__cxx11::basic_string<char> >'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:221:7: note: candidate: std::set<_Key, _Compare, _Alloc>::set(std::set<_Key, _Compare, _Alloc>&&) [with _Key = std::__cxx11::basic_string<char>; _Compare = std::less<std::__cxx11::basic_string<char> >; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]
+       set(set&&) = default;
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:221:7: note:   no known conversion for argument 1 from 'int' to 'std::set<std::__cxx11::basic_string<char> >&&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:213:7: note: candidate: std::set<_Key, _Compare, _Alloc>::set(const std::set<_Key, _Compare, _Alloc>&) [with _Key = std::__cxx11::basic_string<char>; _Compare = std::less<std::__cxx11::basic_string<char> >; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]
+       set(const set&) = default;
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:213:7: note:   no known conversion for argument 1 from 'int' to 'const std::set<std::__cxx11::basic_string<char> >&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:198:2: note: candidate: template<class _InputIterator> std::set<_Key, _Compare, _Alloc>::set(_InputIterator, _InputIterator, const _Compare&, const allocator_type&)
+  set(_InputIterator __first, _InputIterator __last,
+  ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:198:2: note:   template argument deduction/substitution failed:
+..\src\assign24_uniq_strings.cpp:13:21: note:   candidate expects 4 arguments, 1 provided
+  set<string> m_set(N);
+                     ^
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/set:61:0,
+                 from ..\src\assign24_uniq_strings.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:181:2: note: candidate: template<class _InputIterator> std::set<_Key, _Compare, _Alloc>::set(_InputIterator, _InputIterator)
+  set(_InputIterator __first, _InputIterator __last)
+  ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:181:2: note:   template argument deduction/substitution failed:
+..\src\assign24_uniq_strings.cpp:13:21: note:   candidate expects 2 arguments, 1 provided
+  set<string> m_set(N);
+                     ^
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/set:61:0,
+                 from ..\src\assign24_uniq_strings.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:166:7: note: candidate: std::set<_Key, _Compare, _Alloc>::set(const _Compare&, const allocator_type&) [with _Key = std::__cxx11::basic_string<char>; _Compare = std::less<std::__cxx11::basic_string<char> >; _Alloc = std::allocator<std::__cxx11::basic_string<char> >; std::set<_Key, _Compare, _Alloc>::allocator_type = std::allocator<std::__cxx11::basic_string<char> >]
+       set(const _Compare& __comp,
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:166:7: note:   no known conversion for argument 1 from 'int' to 'const std::less<std::__cxx11::basic_string<char> >&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:157:7: note: candidate: std::set<_Key, _Compare, _Alloc>::set() [with _Key = std::__cxx11::basic_string<char>; _Compare = std::less<std::__cxx11::basic_string<char> >; _Alloc = std::allocator<std::__cxx11::basic_string<char> >]
+       set() = default;
+       ^~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_set.h:157:7: note:   candidate expects 0 arguments, 1 provided
+..\src\assign24_uniq_strings.cpp:15:7: error: no match for 'operator>>' (operand types are 'std::istream {aka std::basic_istream<char>}' and 'const std::__cxx11::basic_string<char>')
+   cin >> next;
+   ~~~~^~~~~~~
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:40:0,
+                 from ..\src\assign24_uniq_strings.cpp:7:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:120:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__istream_type& (*)(std::basic_istream<_CharT, _Traits>::__istream_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(__istream_type& (*__pf)(__istream_type&))
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:120:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'std::basic_istream<char>::__istream_type& (*)(std::basic_istream<char>::__istream_type&) {aka std::basic_istream<char>& (*)(std::basic_istream<char>&)}'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:124:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__ios_type& (*)(std::basic_istream<_CharT, _Traits>::__ios_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>; std::basic_istream<_CharT, _Traits>::__ios_type = std::basic_ios<char>]
+       operator>>(__ios_type& (*__pf)(__ios_type&))
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:124:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'std::basic_istream<char>::__ios_type& (*)(std::basic_istream<char>::__ios_type&) {aka std::basic_ios<char>& (*)(std::basic_ios<char>&)}'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:131:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::ios_base& (*)(std::ios_base&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(ios_base& (*__pf)(ios_base&))
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:131:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'std::ios_base& (*)(std::ios_base&)'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:168:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(bool&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(bool& __n)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:168:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'bool&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:172:7: note: candidate: std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(short int&) [with _CharT = char; _Traits = std::char_traits<char>]
+       operator>>(short& __n);
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:172:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'short int&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:175:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(short unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(unsigned short& __n)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:175:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'short unsigned int&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:179:7: note: candidate: std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(int&) [with _CharT = char; _Traits = std::char_traits<char>]
+       operator>>(int& __n);
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:179:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'int&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:182:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(unsigned int& __n)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:182:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'unsigned int&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:186:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(long& __n)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:186:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'long int&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:190:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(unsigned long& __n)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:190:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'long unsigned int&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:195:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long long int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(long long& __n)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:195:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'long long int&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:199:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long long unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(unsigned long long& __n)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:199:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'long long unsigned int&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:214:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(float&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(float& __f)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:214:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'float&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:218:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(double&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(double& __f)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:218:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'double&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:222:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long double&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(long double& __f)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:222:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'long double&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:235:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(void*&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(void*& __p)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:235:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'void*&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:259:7: note: candidate: std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__streambuf_type*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__streambuf_type = std::basic_streambuf<char>]
+       operator>>(__streambuf_type* __sb);
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:259:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'std::basic_istream<char>::__streambuf_type* {aka std::basic_streambuf<char>*}'
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/string:53:0,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/locale_classes.h:40,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/ios_base.h:41,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ios:42,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ostream:38,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:39,
+                 from ..\src\assign24_uniq_strings.cpp:7:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/basic_string.tcc:1465:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator>>(basic_istream<_CharT, _Traits>& __in,
+     ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/basic_string.tcc:1465:5: note:   template argument deduction/substitution failed:
+..\src\assign24_uniq_strings.cpp:15:10: note:   types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const std::__cxx11::basic_string<char>' have incompatible cv-qualifiers
+   cin >> next;
+          ^~~~
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:991:0,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:40,
+                 from ..\src\assign24_uniq_strings.cpp:7:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/istream.tcc:955:5: note: candidate: template<class _CharT2, class _Traits2> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT2*)
+     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT* __s)
+     ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/istream.tcc:955:5: note:   template argument deduction/substitution failed:
+..\src\assign24_uniq_strings.cpp:15:10: note:   mismatched types '_CharT2*' and 'std::__cxx11::basic_string<char>'
+   cin >> next;
+          ^~~~
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:991:0,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:40,
+                 from ..\src\assign24_uniq_strings.cpp:7:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/istream.tcc:923:5: note: candidate: template<class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT&)
+     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT& __c)
+     ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/istream.tcc:923:5: note:   template argument deduction/substitution failed:
+..\src\assign24_uniq_strings.cpp:15:10: note:   deduced conflicting types for parameter '_CharT' ('char' and 'const std::__cxx11::basic_string<char>')
+   cin >> next;
+          ^~~~
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:40:0,
+                 from ..\src\assign24_uniq_strings.cpp:7:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:756:5: note: candidate: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char&)
+     operator>>(basic_istream<char, _Traits>& __in, unsigned char& __c)
+     ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:756:5: note:   template argument deduction/substitution failed:
+..\src\assign24_uniq_strings.cpp:15:10: note:   cannot convert 'next' (type 'const std::__cxx11::basic_string<char>') to type 'unsigned char&'
+   cin >> next;
+          ^~~~
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:40:0,
+                 from ..\src\assign24_uniq_strings.cpp:7:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:761:5: note: candidate: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char&)
+     operator>>(basic_istream<char, _Traits>& __in, signed char& __c)
+     ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:761:5: note:   template argument deduction/substitution failed:
+..\src\assign24_uniq_strings.cpp:15:10: note:   cannot convert 'next' (type 'const std::__cxx11::basic_string<char>') to type 'signed char&'
+   cin >> next;
+          ^~~~
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:40:0,
+                 from ..\src\assign24_uniq_strings.cpp:7:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:803:5: note: candidate: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char*)
+     operator>>(basic_istream<char, _Traits>& __in, unsigned char* __s)
+     ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:803:5: note:   template argument deduction/substitution failed:
+..\src\assign24_uniq_strings.cpp:15:10: note:   cannot convert 'next' (type 'const std::__cxx11::basic_string<char>') to type 'unsigned char*'
+   cin >> next;
+          ^~~~
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:40:0,
+                 from ..\src\assign24_uniq_strings.cpp:7:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:808:5: note: candidate: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char*)
+     operator>>(basic_istream<char, _Traits>& __in, signed char* __s)
+     ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:808:5: note:   template argument deduction/substitution failed:
+..\src\assign24_uniq_strings.cpp:15:10: note:   cannot convert 'next' (type 'const std::__cxx11::basic_string<char>') to type 'signed char*'
+   cin >> next;
+          ^~~~
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:40:0,
+                 from ..\src\assign24_uniq_strings.cpp:7:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:980:5: note: candidate: template<class _Istream, class _Tp> typename std::enable_if<std::__and_<std::__not_<std::is_lvalue_reference<_Tp> >, std::__is_convertible_to_basic_istream<_Istream>, std::__is_extractable<typename std::__is_convertible_to_basic_istream<_Tp>::__istream_type, _Tp&&, void> >::value, typename std::__is_convertible_to_basic_istream<_Tp>::__istream_type>::type std::operator>>(_Istream&&, _Tp&&)
+     operator>>(_Istream&& __is, _Tp&& __x)
+     ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:980:5: note:   template argument deduction/substitution failed:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream: In substitution of 'template<class _Istream, class _Tp> typename std::enable_if<std::__and_<std::__not_<std::is_lvalue_reference<_Tp> >, std::__is_convertible_to_basic_istream<_Istream>, std::__is_extractable<typename std::__is_convertible_to_basic_istream<_Tp>::__istream_type, _Tp&&, void> >::value, typename std::__is_convertible_to_basic_istream<_Tp>::__istream_type>::type std::operator>>(_Istream&&, _Tp&&) [with _Istream = std::basic_istream<char>&; _Tp = const std::__cxx11::basic_string<char>&]':
+..\src\assign24_uniq_strings.cpp:15:10:   required from here
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:980:5: error: no type named 'type' in 'struct std::enable_if<false, std::basic_istream<char>&>'
+18:52:05 **** Incremental Build of configuration Debug for project assign24_uniq_strings ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign24_uniq_strings.o" "..\\src\\assign24_uniq_strings.cpp" 
+g++ -o assign24_uniq_strings.exe "src\\assign24_uniq_strings.o" 
+Info: Nothing to build for assign24_uniq_strings
+Info: Nothing to build for assign24_uniq_strings
+Info: Nothing to build for assign24_uniq_strings
+18:59:20 **** Rebuild of configuration Debug for project assign25_set_of_the_map ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign25_set_of_the_map.o" "..\\src\\assign25_set_of_the_map.cpp" 
+g++ -o assign25_set_of_the_map.exe "src\\assign25_set_of_the_map.o" 
+Info: Nothing to build for assign25_set_of_the_map
