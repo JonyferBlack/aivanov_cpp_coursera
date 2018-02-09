@@ -8,12 +8,15 @@
 #include <locale>
 #include <algorithm>
 
-using namespace std;
+using std::string;
+using std::cin;
+using std::cout;
+using std::vector;
 
 string tolower(const string& s) {
 	string result = s;
 	for (auto& ch : result)
-		ch = tolower(ch);
+		ch = std::tolower(ch);
 	return result;
 }
 
@@ -24,12 +27,6 @@ int main() {
 	vector<string> v(n);
 	for (auto& i : v) {
 		cin >> i;
-	}
-
-	string s;
-	s += "a";
-	{
-		s += "world";
 	}
 
 	sort(begin(v), end(v), [](const string& a, const string& b) {
