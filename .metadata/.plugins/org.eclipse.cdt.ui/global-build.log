@@ -5010,3 +5010,534 @@ Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign25_set_of_the_map.o" "..\\src\\assign25_set_of_the_map.cpp" 
 g++ -o assign25_set_of_the_map.exe "src\\assign25_set_of_the_map.o" 
 Info: Nothing to build for assign25_set_of_the_map
+19:45:55 **** Rebuild of configuration Debug for project assign26_synonyms ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign26_synonims.o" "..\\src\\assign26_synonims.cpp" 
+g++ -o assign26_synonyms.exe "src\\assign26_synonims.o" 
+19:46:05 **** Incremental Build of configuration Debug for project assign26_synonyms ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign26_synonims.o" "..\\src\\assign26_synonims.cpp" 
+g++ -o assign26_synonyms.exe "src\\assign26_synonims.o" 
+Info: Nothing to build for assign26_synonyms
+19:48:04 **** Incremental Build of configuration Debug for project assign26_synonyms ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign26_synonims.o" "..\\src\\assign26_synonims.cpp" 
+g++ -o assign26_synonyms.exe "src\\assign26_synonims.o" 
+19:57:16 **** Incremental Build of configuration Debug for project assign26_synonyms ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign26_synonims.o" "..\\src\\assign26_synonims.cpp" 
+g++ -o assign26_synonyms.exe "src\\assign26_synonims.o" 
+19:58:11 **** Incremental Build of configuration Debug for project assign26_synonyms ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign26_synonims.o" "..\\src\\assign26_synonims.cpp" 
+g++ -o assign26_synonyms.exe "src\\assign26_synonims.o" 
+19:59:59 **** Incremental Build of configuration Debug for project assign26_synonyms ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign26_synonims.o" "..\\src\\assign26_synonims.cpp" 
+g++ -o assign26_synonyms.exe "src\\assign26_synonims.o" 
+20:00:19 **** Incremental Build of configuration Debug for project assign26_synonyms ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign26_synonims.o" "..\\src\\assign26_synonims.cpp" 
+g++ -o assign26_synonyms.exe "src\\assign26_synonims.o" 
+20:01:31 **** Incremental Build of configuration Debug for project assign26_synonyms ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign26_synonims.o" "..\\src\\assign26_synonims.cpp" 
+g++ -o assign26_synonyms.exe "src\\assign26_synonims.o" 
+20:01:45 **** Incremental Build of configuration Debug for project assign26_synonyms ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign26_synonims.o" "..\\src\\assign26_synonims.cpp" 
+g++ -o assign26_synonyms.exe "src\\assign26_synonims.o" 
+00:00:48 **** Rebuild of configuration Debug for project assign26_synonyms ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign26_synonims.o" "..\\src\\assign26_synonims.cpp" 
+g++ -o assign26_synonyms.exe "src\\assign26_synonims.o" 
+00:01:11 **** Incremental Build of configuration Debug for project assign26_synonyms ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign26_synonims.o" "..\\src\\assign26_synonims.cpp" 
+g++ -o assign26_synonyms.exe "src\\assign26_synonims.o" 
+00:05:24 **** Incremental Build of configuration Debug for project assign26_synonyms ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign26_synonims.o" "..\\src\\assign26_synonims.cpp" 
+g++ -o assign26_synonyms.exe "src\\assign26_synonims.o" 
+00:05:35 **** Incremental Build of configuration Debug for project assign26_synonyms ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign26_synonims.o" "..\\src\\assign26_synonims.cpp" 
+g++ -o assign26_synonyms.exe "src\\assign26_synonims.o" 
+00:08:09 **** Incremental Build of configuration Debug for project assign26_synonyms ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign26_synonims.o" "..\\src\\assign26_synonims.cpp" 
+g++ -o assign26_synonyms.exe "src\\assign26_synonims.o" 
+00:09:11 **** Incremental Build of configuration Debug for project assign26_synonyms ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign26_synonims.o" "..\\src\\assign26_synonims.cpp" 
+g++ -o assign26_synonyms.exe "src\\assign26_synonims.o" 
+00:21:29 **** Incremental Build of configuration Debug for project assign26_synonyms ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign26_synonims.o" "..\\src\\assign26_synonims.cpp" 
+g++ -o assign26_synonyms.exe "src\\assign26_synonims.o" 
+Info: Nothing to build for assign26_synonyms
+Info: Nothing to build for assign26_synonyms
+Info: Nothing to build for assign23_bus_stops_2
+12:45:01 **** Rebuild of configuration Debug for project assign27_bus_stops_3 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign27_bus_stops_3.o" "..\\src\\assign27_bus_stops_3.cpp" 
+..\src\assign27_bus_stops_3.cpp: In function 'int main()':
+..\src\assign27_bus_stops_3.cpp:16:6: error: 'set' was not declared in this scope
+  map<set<string>, int> buses_by_stops;
+      ^~~
+..\src\assign27_bus_stops_3.cpp:16:6: note: suggested alternative: 'getw'
+  map<set<string>, int> buses_by_stops;
+      ^~~
+      getw
+..\src\assign27_bus_stops_3.cpp:16:16: error: wrong number of template arguments (1, should be at least 2)
+  map<set<string>, int> buses_by_stops;
+                ^
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/map:61:0,
+                 from ..\src\assign27_bus_stops_3.cpp:7:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_map.h:99:11: note: provided for 'template<class _Key, class _Tp, class _Compare, class _Alloc> class std::map'
+     class map
+           ^~~
+..\src\assign27_bus_stops_3.cpp:16:17: error: expected unqualified-id before ',' token
+  map<set<string>, int> buses_by_stops;
+                 ^
+..\src\assign27_bus_stops_3.cpp:16:19: error: expected unqualified-id before 'int'
+  map<set<string>, int> buses_by_stops;
+                   ^~~
+..\src\assign27_bus_stops_3.cpp:17:12: error: expected primary-expression before '>' token
+  set<string> tmp;
+            ^
+..\src\assign27_bus_stops_3.cpp:17:14: error: 'tmp' was not declared in this scope
+  set<string> tmp;
+              ^~~
+..\src\assign27_bus_stops_3.cpp:17:14: note: suggested alternative: 'tm'
+  set<string> tmp;
+              ^~~
+              tm
+..\src\assign27_bus_stops_3.cpp:23:21: error: unable to deduce 'auto&&' from 'tmp'
+   for (auto& next : tmp){
+                     ^~~
+..\src\assign27_bus_stops_3.cpp:26:7: error: 'buses_by_stops' was not declared in this scope
+   if (buses_by_stops.count(tmp) != 0){
+       ^~~~~~~~~~~~~~
+..\src\assign27_bus_stops_3.cpp:30:3: error: 'buses_by_stops' was not declared in this scope
+   buses_by_stops[tmp] = (++last_number);
+   ^~~~~~~~~~~~~~
+Info: Nothing to build for assign23_bus_stops_2
+12:45:14 **** Incremental Build of configuration Debug for project assign27_bus_stops_3 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign27_bus_stops_3.o" "..\\src\\assign27_bus_stops_3.cpp" 
+..\src\assign27_bus_stops_3.cpp: In function 'int main()':
+..\src\assign27_bus_stops_3.cpp:24:8: error: no match for 'operator>>' (operand types are 'std::istream {aka std::basic_istream<char>}' and 'const std::__cxx11::basic_string<char>')
+    cin >> next;
+    ~~~~^~~~~~~
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:40:0,
+                 from ..\src\assign27_bus_stops_3.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:120:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__istream_type& (*)(std::basic_istream<_CharT, _Traits>::__istream_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(__istream_type& (*__pf)(__istream_type&))
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:120:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'std::basic_istream<char>::__istream_type& (*)(std::basic_istream<char>::__istream_type&) {aka std::basic_istream<char>& (*)(std::basic_istream<char>&)}'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:124:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__ios_type& (*)(std::basic_istream<_CharT, _Traits>::__ios_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>; std::basic_istream<_CharT, _Traits>::__ios_type = std::basic_ios<char>]
+       operator>>(__ios_type& (*__pf)(__ios_type&))
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:124:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'std::basic_istream<char>::__ios_type& (*)(std::basic_istream<char>::__ios_type&) {aka std::basic_ios<char>& (*)(std::basic_ios<char>&)}'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:131:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::ios_base& (*)(std::ios_base&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(ios_base& (*__pf)(ios_base&))
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:131:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'std::ios_base& (*)(std::ios_base&)'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:168:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(bool&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(bool& __n)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:168:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'bool&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:172:7: note: candidate: std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(short int&) [with _CharT = char; _Traits = std::char_traits<char>]
+       operator>>(short& __n);
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:172:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'short int&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:175:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(short unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(unsigned short& __n)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:175:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'short unsigned int&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:179:7: note: candidate: std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(int&) [with _CharT = char; _Traits = std::char_traits<char>]
+       operator>>(int& __n);
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:179:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'int&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:182:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(unsigned int& __n)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:182:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'unsigned int&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:186:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(long& __n)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:186:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'long int&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:190:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(unsigned long& __n)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:190:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'long unsigned int&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:195:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long long int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(long long& __n)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:195:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'long long int&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:199:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long long unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(unsigned long long& __n)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:199:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'long long unsigned int&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:214:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(float&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(float& __f)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:214:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'float&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:218:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(double&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(double& __f)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:218:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'double&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:222:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long double&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(long double& __f)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:222:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'long double&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:235:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(void*&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(void*& __p)
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:235:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'void*&'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:259:7: note: candidate: std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__streambuf_type*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__streambuf_type = std::basic_streambuf<char>]
+       operator>>(__streambuf_type* __sb);
+       ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:259:7: note:   no known conversion for argument 1 from 'const std::__cxx11::basic_string<char>' to 'std::basic_istream<char>::__streambuf_type* {aka std::basic_streambuf<char>*}'
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/string:53:0,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/locale_classes.h:40,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/ios_base.h:41,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ios:42,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ostream:38,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:39,
+                 from ..\src\assign27_bus_stops_3.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/basic_string.tcc:1465:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator>>(basic_istream<_CharT, _Traits>& __in,
+     ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/basic_string.tcc:1465:5: note:   template argument deduction/substitution failed:
+..\src\assign27_bus_stops_3.cpp:24:11: note:   types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'const std::__cxx11::basic_string<char>' have incompatible cv-qualifiers
+    cin >> next;
+           ^~~~
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:991:0,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:40,
+                 from ..\src\assign27_bus_stops_3.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/istream.tcc:955:5: note: candidate: template<class _CharT2, class _Traits2> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT2*)
+     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT* __s)
+     ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/istream.tcc:955:5: note:   template argument deduction/substitution failed:
+..\src\assign27_bus_stops_3.cpp:24:11: note:   mismatched types '_CharT2*' and 'std::__cxx11::basic_string<char>'
+    cin >> next;
+           ^~~~
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:991:0,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:40,
+                 from ..\src\assign27_bus_stops_3.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/istream.tcc:923:5: note: candidate: template<class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT&)
+     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT& __c)
+     ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/istream.tcc:923:5: note:   template argument deduction/substitution failed:
+..\src\assign27_bus_stops_3.cpp:24:11: note:   deduced conflicting types for parameter '_CharT' ('char' and 'const std::__cxx11::basic_string<char>')
+    cin >> next;
+           ^~~~
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:40:0,
+                 from ..\src\assign27_bus_stops_3.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:756:5: note: candidate: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char&)
+     operator>>(basic_istream<char, _Traits>& __in, unsigned char& __c)
+     ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:756:5: note:   template argument deduction/substitution failed:
+..\src\assign27_bus_stops_3.cpp:24:11: note:   cannot convert 'next' (type 'const std::__cxx11::basic_string<char>') to type 'unsigned char&'
+    cin >> next;
+           ^~~~
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:40:0,
+                 from ..\src\assign27_bus_stops_3.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:761:5: note: candidate: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char&)
+     operator>>(basic_istream<char, _Traits>& __in, signed char& __c)
+     ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:761:5: note:   template argument deduction/substitution failed:
+..\src\assign27_bus_stops_3.cpp:24:11: note:   cannot convert 'next' (type 'const std::__cxx11::basic_string<char>') to type 'signed char&'
+    cin >> next;
+           ^~~~
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:40:0,
+                 from ..\src\assign27_bus_stops_3.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:803:5: note: candidate: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char*)
+     operator>>(basic_istream<char, _Traits>& __in, unsigned char* __s)
+     ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:803:5: note:   template argument deduction/substitution failed:
+..\src\assign27_bus_stops_3.cpp:24:11: note:   cannot convert 'next' (type 'const std::__cxx11::basic_string<char>') to type 'unsigned char*'
+    cin >> next;
+           ^~~~
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:40:0,
+                 from ..\src\assign27_bus_stops_3.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:808:5: note: candidate: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char*)
+     operator>>(basic_istream<char, _Traits>& __in, signed char* __s)
+     ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:808:5: note:   template argument deduction/substitution failed:
+..\src\assign27_bus_stops_3.cpp:24:11: note:   cannot convert 'next' (type 'const std::__cxx11::basic_string<char>') to type 'signed char*'
+    cin >> next;
+           ^~~~
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:40:0,
+                 from ..\src\assign27_bus_stops_3.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:980:5: note: candidate: template<class _Istream, class _Tp> typename std::enable_if<std::__and_<std::__not_<std::is_lvalue_reference<_Tp> >, std::__is_convertible_to_basic_istream<_Istream>, std::__is_extractable<typename std::__is_convertible_to_basic_istream<_Tp>::__istream_type, _Tp&&, void> >::value, typename std::__is_convertible_to_basic_istream<_Tp>::__istream_type>::type std::operator>>(_Istream&&, _Tp&&)
+     operator>>(_Istream&& __is, _Tp&& __x)
+     ^~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:980:5: note:   template argument deduction/substitution failed:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream: In substitution of 'template<class _Istream, class _Tp> typename std::enable_if<std::__and_<std::__not_<std::is_lvalue_reference<_Tp> >, std::__is_convertible_to_basic_istream<_Istream>, std::__is_extractable<typename std::__is_convertible_to_basic_istream<_Tp>::__istream_type, _Tp&&, void> >::value, typename std::__is_convertible_to_basic_istream<_Tp>::__istream_type>::type std::operator>>(_Istream&&, _Tp&&) [with _Istream = std::basic_istream<char>&; _Tp = const std::__cxx11::basic_string<char>&]':
+..\src\assign27_bus_stops_3.cpp:24:11:   required from here
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/istream:980:5: error: no type named 'type' in 'struct std::enable_if<false, std::basic_istream<char>&>'
+Info: Nothing to build for assign23_bus_stops_2
+19:06:48 **** Incremental Build of configuration Debug for project assign27_bus_stops_3 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign27_bus_stops_3.o" "..\\src\\assign27_bus_stops_3.cpp" 
+g++ -o assign27_bus_stops_3.exe "src\\assign27_bus_stops_3.o" 
+Info: Nothing to build for assign27_bus_stops_3
+Info: Nothing to build for assign23_bus_stops_2
+19:13:16 **** Incremental Build of configuration Debug for project assign27_bus_stops_3 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign27_bus_stops_3.o" "..\\src\\assign27_bus_stops_3.cpp" 
+..\src\assign27_bus_stops_3.cpp: In function 'int main()':
+..\src\assign27_bus_stops_3.cpp:22:3: error: declaration of 'auto& element' has no initializer
+   auto& element;
+   ^~~~
+..\src\assign27_bus_stops_3.cpp:24:17: error: no match for 'operator[]' (operand types are 'std::set<std::__cxx11::basic_string<char> >' and 'int')
+    element = tmp[i];
+                 ^
+Info: Nothing to build for assign23_bus_stops_2
+19:13:24 **** Incremental Build of configuration Debug for project assign27_bus_stops_3 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign27_bus_stops_3.o" "..\\src\\assign27_bus_stops_3.cpp" 
+..\src\assign27_bus_stops_3.cpp: In function 'int main()':
+..\src\assign27_bus_stops_3.cpp:23:23: error: no match for 'operator[]' (operand types are 'std::set<std::__cxx11::basic_string<char> >' and 'int')
+    auto& element = tmp[i];
+                       ^
+19:15:07 **** Incremental Build of configuration Debug for project assign27_bus_stops_3 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign27_bus_stops_3.o" "..\\src\\assign27_bus_stops_3.cpp" 
+g++ -o assign27_bus_stops_3.exe "src\\assign27_bus_stops_3.o" 
+12:30:01 **** Rebuild of configuration Debug for project assign27_bus_stops_3 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign27_bus_stops_3.o" "..\\src\\assign27_bus_stops_3.cpp" 
+g++ -o assign27_bus_stops_3.exe "src\\assign27_bus_stops_3.o" 
+14:11:09 **** Rebuild of configuration Debug for project assign28_sort_ints_by_mod ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign28_sort_ints_by_mod.o" "..\\src\\assign28_sort_ints_by_mod.cpp" 
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algobase.h:71:0,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/char_traits.h:39,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ios:40,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ostream:38,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:39,
+                 from ..\src\assign28_sort_ints_by_mod.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h: In instantiation of 'constexpr bool __gnu_cxx::__ops::_Iter_comp_iter<_Compare>::operator()(_Iterator1, _Iterator2) [with _Iterator1 = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Iterator2 = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Compare = main()::<lambda(int)>]':
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:81:17:   required from 'void std::__move_median_to_first(_Iterator, _Iterator, _Iterator, _Iterator, _Compare) [with _Iterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(int)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1921:34:   required from '_RandomAccessIterator std::__unguarded_partition_pivot(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(int)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1953:38:   required from 'void std::__introsort_loop(_RandomAccessIterator, _RandomAccessIterator, _Size, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Size = long long int; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(int)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1968:25:   required from 'void std::__sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(int)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:4868:18:   required from 'void std::sort(_RAIter, _RAIter, _Compare) [with _RAIter = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Compare = main()::<lambda(int)>]'
+..\src\assign28_sort_ints_by_mod.cpp:23:49:   required from here
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h:143:18: error: no match for call to '(main()::<lambda(int)>) (int&, int&)'
+         { return bool(_M_comp(*__it1, *__it2)); }
+                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h:143:18: note: candidate: bool (*)(int) <conversion>
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h:143:18: note:   candidate expects 2 arguments, 3 provided
+..\src\assign28_sort_ints_by_mod.cpp:23:33: note: candidate: main()::<lambda(int)>
+  sort(begin(v), end(v), [](int x){ return true;});
+                                 ^
+..\src\assign28_sort_ints_by_mod.cpp:23:33: note:   candidate expects 1 argument, 2 provided
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algobase.h:71:0,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/char_traits.h:39,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ios:40,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ostream:38,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:39,
+                 from ..\src\assign28_sort_ints_by_mod.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h: In instantiation of 'bool __gnu_cxx::__ops::_Val_comp_iter<_Compare>::operator()(_Value&, _Iterator) [with _Value = int; _Iterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Compare = main()::<lambda(int)>]':
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1828:20:   required from 'void std::__unguarded_linear_insert(_RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Compare = __gnu_cxx::__ops::_Val_comp_iter<main()::<lambda(int)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1855:36:   required from 'void std::__insertion_sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(int)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1885:25:   required from 'void std::__final_insertion_sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(int)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1971:31:   required from 'void std::__sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(int)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:4868:18:   required from 'void std::sort(_RAIter, _RAIter, _Compare) [with _RAIter = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Compare = main()::<lambda(int)>]'
+..\src\assign28_sort_ints_by_mod.cpp:23:49:   required from here
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h:215:11: error: no match for call to '(main()::<lambda(int)>) (int&, int&)'
+  { return bool(_M_comp(__val, *__it)); }
+           ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h:215:11: note: candidate: bool (*)(int) <conversion>
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h:215:11: note:   candidate expects 2 arguments, 3 provided
+..\src\assign28_sort_ints_by_mod.cpp:23:33: note: candidate: main()::<lambda(int)>
+  sort(begin(v), end(v), [](int x){ return true;});
+                                 ^
+..\src\assign28_sort_ints_by_mod.cpp:23:33: note:   candidate expects 1 argument, 2 provided
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algobase.h:71:0,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/char_traits.h:39,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ios:40,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ostream:38,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:39,
+                 from ..\src\assign28_sort_ints_by_mod.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h: In instantiation of 'bool __gnu_cxx::__ops::_Iter_comp_val<_Compare>::operator()(_Iterator, _Value&) [with _Iterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Value = int; _Compare = main()::<lambda(int)>]':
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_heap.h:133:48:   required from 'void std::__push_heap(_RandomAccessIterator, _Distance, _Distance, _Tp, _Compare&) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Distance = long long int; _Tp = int; _Compare = __gnu_cxx::__ops::_Iter_comp_val<main()::<lambda(int)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_heap.h:237:23:   required from 'void std::__adjust_heap(_RandomAccessIterator, _Distance, _Distance, _Tp, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Distance = long long int; _Tp = int; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(int)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_heap.h:342:22:   required from 'void std::__make_heap(_RandomAccessIterator, _RandomAccessIterator, _Compare&) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(int)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1672:23:   required from 'void std::__heap_select(_RandomAccessIterator, _RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(int)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1933:25:   required from 'void std::__partial_sort(_RandomAccessIterator, _RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(int)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1948:27:   required from 'void std::__introsort_loop(_RandomAccessIterator, _RandomAccessIterator, _Size, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Size = long long int; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(int)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1968:25:   required from 'void std::__sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(int)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:4868:18:   required from 'void std::sort(_RAIter, _RAIter, _Compare) [with _RAIter = __gnu_cxx::__normal_iterator<int*, std::vector<int> >; _Compare = main()::<lambda(int)>]'
+..\src\assign28_sort_ints_by_mod.cpp:23:49:   required from here
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h:177:11: error: no match for call to '(main()::<lambda(int)>) (int&, int&)'
+  { return bool(_M_comp(*__it, __val)); }
+           ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h:177:11: note: candidate: bool (*)(int) <conversion>
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h:177:11: note:   candidate expects 2 arguments, 3 provided
+..\src\assign28_sort_ints_by_mod.cpp:23:33: note: candidate: main()::<lambda(int)>
+  sort(begin(v), end(v), [](int x){ return true;});
+                                 ^
+..\src\assign28_sort_ints_by_mod.cpp:23:33: note:   candidate expects 1 argument, 2 provided
+14:29:36 **** Incremental Build of configuration Debug for project assign28_sort_ints_by_mod ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign28_sort_ints_by_mod.o" "..\\src\\assign28_sort_ints_by_mod.cpp" 
+g++ -o assign28_sort_ints_by_mod.exe "src\\assign28_sort_ints_by_mod.o" 
+Info: Nothing to build for assign28_sort_ints_by_mod
+14:31:31 **** Incremental Build of configuration Debug for project assign28_sort_ints_by_mod ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign28_sort_ints_by_mod.o" "..\\src\\assign28_sort_ints_by_mod.cpp" 
+g++ -o assign28_sort_ints_by_mod.exe "src\\assign28_sort_ints_by_mod.o" 
+Info: Nothing to build for assign28_sort_ints_by_mod
+Info: Nothing to build for assign28_sort_ints_by_mod
+15:06:50 **** Rebuild of configuration Debug for project assign29_sort_w_o_register ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign29_sort_w_o_register.o" "..\\src\\assign29_sort_w_o_register.cpp" 
+..\src\assign29_sort_w_o_register.cpp: In function 'int main()':
+..\src\assign29_sort_w_o_register.cpp:18:12: error: no matching function for call to 'tolower(std::__cxx11::basic_string<char>&)'
+   tolower(i)
+            ^
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/cctype:42:0,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/localefwd.h:42,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ios:41,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ostream:38,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:39,
+                 from ..\src\assign29_sort_w_o_register.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/x86_64-w64-mingw32/include/ctype.h:125:23: note: candidate: int tolower(int)
+   _CRTIMP int __cdecl tolower(int _C);
+                       ^~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/x86_64-w64-mingw32/include/ctype.h:125:23: note:   no known conversion for argument 1 from 'std::__cxx11::basic_string<char>' to 'int'
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/basic_ios.h:37:0,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ios:44,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ostream:38,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:39,
+                 from ..\src\assign29_sort_w_o_register.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/locale_facets.h:2645:5: note: candidate: template<class _CharT> _CharT std::tolower(_CharT, const std::locale&)
+     tolower(_CharT __c, const locale& __loc)
+     ^~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/locale_facets.h:2645:5: note:   template argument deduction/substitution failed:
+..\src\assign29_sort_w_o_register.cpp:18:12: note:   candidate expects 2 arguments, 1 provided
+   tolower(i)
+            ^
+Info: Nothing to build for assign28_sort_ints_by_mod
+15:10:16 **** Incremental Build of configuration Debug for project assign29_sort_w_o_register ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign29_sort_w_o_register.o" "..\\src\\assign29_sort_w_o_register.cpp" 
+..\src\assign29_sort_w_o_register.cpp: In function 'int main()':
+..\src\assign29_sort_w_o_register.cpp:18:18: error: cannot bind non-const lvalue reference of type 'int&' to an rvalue of type 'int'
+   for (int& ch : i)
+                  ^
+..\src\assign29_sort_w_o_register.cpp:19:11: warning: statement has no effect [-Wunused-value]
+    tolower(ch);
+    ~~~~~~~^~~~
+Info: Nothing to build for assign28_sort_ints_by_mod
+15:10:42 **** Incremental Build of configuration Debug for project assign29_sort_w_o_register ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign29_sort_w_o_register.o" "..\\src\\assign29_sort_w_o_register.cpp" 
+..\src\assign29_sort_w_o_register.cpp: In function 'int main()':
+..\src\assign29_sort_w_o_register.cpp:19:11: warning: statement has no effect [-Wunused-value]
+    tolower(ch);
+    ~~~~~~~^~~~
+g++ -o assign29_sort_w_o_register.exe "src\\assign29_sort_w_o_register.o" 
+Info: Nothing to build for assign28_sort_ints_by_mod
+15:12:12 **** Incremental Build of configuration Debug for project assign29_sort_w_o_register ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign29_sort_w_o_register.o" "..\\src\\assign29_sort_w_o_register.cpp" 
+..\src\assign29_sort_w_o_register.cpp: In function 'int main()':
+..\src\assign29_sort_w_o_register.cpp:19:18: error: cannot bind non-const lvalue reference of type 'int&' to an rvalue of type 'int'
+   for (int& ch : copy)
+                  ^~~~
+..\src\assign29_sort_w_o_register.cpp:20:11: warning: statement has no effect [-Wunused-value]
+    tolower(ch);
+    ~~~~~~~^~~~
+Info: Nothing to build for assign28_sort_ints_by_mod
+15:12:24 **** Incremental Build of configuration Debug for project assign29_sort_w_o_register ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign29_sort_w_o_register.o" "..\\src\\assign29_sort_w_o_register.cpp" 
+..\src\assign29_sort_w_o_register.cpp: In function 'int main()':
+..\src\assign29_sort_w_o_register.cpp:20:11: warning: statement has no effect [-Wunused-value]
+    tolower(ch);
+    ~~~~~~~^~~~
+g++ -o assign29_sort_w_o_register.exe "src\\assign29_sort_w_o_register.o" 
+Info: Nothing to build for assign28_sort_ints_by_mod
+15:14:41 **** Incremental Build of configuration Debug for project assign29_sort_w_o_register ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign29_sort_w_o_register.o" "..\\src\\assign29_sort_w_o_register.cpp" 
+g++ -o assign29_sort_w_o_register.exe "src\\assign29_sort_w_o_register.o" 
+Info: Nothing to build for assign28_sort_ints_by_mod
+15:15:11 **** Incremental Build of configuration Debug for project assign29_sort_w_o_register ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign29_sort_w_o_register.o" "..\\src\\assign29_sort_w_o_register.cpp" 
+g++ -o assign29_sort_w_o_register.exe "src\\assign29_sort_w_o_register.o" 
+Info: Nothing to build for assign28_sort_ints_by_mod
+15:39:25 **** Incremental Build of configuration Debug for project assign29_sort_w_o_register ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign29_sort_w_o_register.o" "..\\src\\assign29_sort_w_o_register.cpp" 
+In file included from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algobase.h:71:0,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/char_traits.h:39,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ios:40,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ostream:38,
+                 from E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/iostream:39,
+                 from ..\src\assign29_sort_w_o_register.cpp:6:
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h: In instantiation of 'constexpr bool __gnu_cxx::__ops::_Iter_comp_iter<_Compare>::operator()(_Iterator1, _Iterator2) [with _Iterator1 = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Iterator2 = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Compare = main()::<lambda(std::__cxx11::string, std::__cxx11::string)>]':
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:81:17:   required from 'void std::__move_median_to_first(_Iterator, _Iterator, _Iterator, _Iterator, _Compare) [with _Iterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(std::__cxx11::string, std::__cxx11::string)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1921:34:   required from '_RandomAccessIterator std::__unguarded_partition_pivot(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(std::__cxx11::string, std::__cxx11::string)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1953:38:   required from 'void std::__introsort_loop(_RandomAccessIterator, _RandomAccessIterator, _Size, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Size = long long int; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(std::__cxx11::string, std::__cxx11::string)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1968:25:   required from 'void std::__sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(std::__cxx11::string, std::__cxx11::string)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:4868:18:   required from 'void std::sort(_RAIter, _RAIter, _Compare) [with _RAIter = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Compare = main()::<lambda(std::__cxx11::string, std::__cxx11::string)>]'
+..\src\assign29_sort_w_o_register.cpp:28:3:   required from here
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h:143:18: error: void value not ignored as it ought to be
+         { return bool(_M_comp(*__it1, *__it2)); }
+                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h: In instantiation of 'bool __gnu_cxx::__ops::_Val_comp_iter<_Compare>::operator()(_Value&, _Iterator) [with _Value = std::__cxx11::basic_string<char>; _Iterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Compare = main()::<lambda(std::__cxx11::string, std::__cxx11::string)>]':
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1828:20:   required from 'void std::__unguarded_linear_insert(_RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Compare = __gnu_cxx::__ops::_Val_comp_iter<main()::<lambda(std::__cxx11::string, std::__cxx11::string)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1855:36:   required from 'void std::__insertion_sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(std::__cxx11::string, std::__cxx11::string)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1885:25:   required from 'void std::__final_insertion_sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(std::__cxx11::string, std::__cxx11::string)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1971:31:   required from 'void std::__sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(std::__cxx11::string, std::__cxx11::string)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:4868:18:   required from 'void std::sort(_RAIter, _RAIter, _Compare) [with _RAIter = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Compare = main()::<lambda(std::__cxx11::string, std::__cxx11::string)>]'
+..\src\assign29_sort_w_o_register.cpp:28:3:   required from here
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h:215:11: error: void value not ignored as it ought to be
+  { return bool(_M_comp(__val, *__it)); }
+           ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h: In instantiation of 'bool __gnu_cxx::__ops::_Iter_comp_val<_Compare>::operator()(_Iterator, _Value&) [with _Iterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Value = std::__cxx11::basic_string<char>; _Compare = main()::<lambda(std::__cxx11::string, std::__cxx11::string)>]':
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_heap.h:133:48:   required from 'void std::__push_heap(_RandomAccessIterator, _Distance, _Distance, _Tp, _Compare&) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Distance = long long int; _Tp = std::__cxx11::basic_string<char>; _Compare = __gnu_cxx::__ops::_Iter_comp_val<main()::<lambda(std::__cxx11::string, std::__cxx11::string)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_heap.h:237:23:   required from 'void std::__adjust_heap(_RandomAccessIterator, _Distance, _Distance, _Tp, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Distance = long long int; _Tp = std::__cxx11::basic_string<char>; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(std::__cxx11::string, std::__cxx11::string)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_heap.h:342:22:   required from 'void std::__make_heap(_RandomAccessIterator, _RandomAccessIterator, _Compare&) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(std::__cxx11::string, std::__cxx11::string)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1672:23:   required from 'void std::__heap_select(_RandomAccessIterator, _RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(std::__cxx11::string, std::__cxx11::string)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1933:25:   required from 'void std::__partial_sort(_RandomAccessIterator, _RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(std::__cxx11::string, std::__cxx11::string)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1948:27:   required from 'void std::__introsort_loop(_RandomAccessIterator, _RandomAccessIterator, _Size, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Size = long long int; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(std::__cxx11::string, std::__cxx11::string)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:1968:25:   required from 'void std::__sort(_RandomAccessIterator, _RandomAccessIterator, _Compare) [with _RandomAccessIterator = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Compare = __gnu_cxx::__ops::_Iter_comp_iter<main()::<lambda(std::__cxx11::string, std::__cxx11::string)> >]'
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/stl_algo.h:4868:18:   required from 'void std::sort(_RAIter, _RAIter, _Compare) [with _RAIter = __gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char>*, std::vector<std::__cxx11::basic_string<char> > >; _Compare = main()::<lambda(std::__cxx11::string, std::__cxx11::string)>]'
+..\src\assign29_sort_w_o_register.cpp:28:3:   required from here
+E:/Gdrive/Cpp_Compilers/g++/mingw64/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/bits/predefined_ops.h:177:11: error: void value not ignored as it ought to be
+  { return bool(_M_comp(*__it, __val)); }
+           ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+Info: Nothing to build for assign28_sort_ints_by_mod
+15:41:00 **** Incremental Build of configuration Debug for project assign29_sort_w_o_register ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign29_sort_w_o_register.o" "..\\src\\assign29_sort_w_o_register.cpp" 
+g++ -o assign29_sort_w_o_register.exe "src\\assign29_sort_w_o_register.o" 
+15:42:27 **** Incremental Build of configuration Debug for project assign29_sort_w_o_register ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign29_sort_w_o_register.o" "..\\src\\assign29_sort_w_o_register.cpp" 
+g++ -o assign29_sort_w_o_register.exe "src\\assign29_sort_w_o_register.o" 
+Info: Nothing to build for assign28_sort_ints_by_mod
+15:42:43 **** Incremental Build of configuration Debug for project assign29_sort_w_o_register ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign29_sort_w_o_register.o" "..\\src\\assign29_sort_w_o_register.cpp" 
+g++ -o assign29_sort_w_o_register.exe "src\\assign29_sort_w_o_register.o" 
+Info: Nothing to build for assign29_sort_w_o_register
+Info: Nothing to build for assign28_sort_ints_by_mod
+Info: Nothing to build for assign29_sort_w_o_register
+Info: Nothing to build for assign28_sort_ints_by_mod
+16:00:34 **** Incremental Build of configuration Debug for project assign29_sort_w_o_register ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assign29_sort_w_o_register.o" "..\\src\\assign29_sort_w_o_register.cpp" 
+g++ -o assign29_sort_w_o_register.exe "src\\assign29_sort_w_o_register.o" 
+Info: Nothing to build for assign28_sort_ints_by_mod
+Info: Nothing to build for assign29_sort_w_o_register
